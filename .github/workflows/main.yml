@@ -1,0 +1,40 @@
+name: SofticX digest
+
+on:
+  schedule:
+    - cron: "40 5-19 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Build digest
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
+        run: python digest.py
+      - name: Save
+        run: |
+          git config user.name "softicx-bot"
+          git config user.email "softicx-bot@users.noreply.github.com"
+          git add digest/latest.json
+          git diff --cached --quiet && exit 0
+          git commit -m "digest $(date -u +%FT%H:%M)"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs && git push && exit 0
+            sleep 5
+          done
+          exit 1
