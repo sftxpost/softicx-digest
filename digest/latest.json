@@ -348,6 +348,42 @@
      "text": "⚡️NVIDIA прекратила поддержку Windows 10 — с ноября десятка перестанет получать новые драйверы Game Ready\n\nПоследний драйвер вышел 21 октября\n\n☠️"
     }
    ]
+  },
+  {
+   "first_seen": "2026-10-31T22:18+03:00",
+   "title": "Собрали 10 GitHub-репозиториев для создания AAA-игр с помощью Claude Code и Codex",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/provod/24483",
+     "channel": "provod",
+     "time": "2026-10-31T21:31:20+03:00",
+     "media": "1 фото",
+     "links": [
+      "https://github.com/jrouwe/JoltPhysics",
+      "https://github.com/TokisanGames/Terrain3D",
+      "https://github.com/RodZill4/material-maker",
+      "https://github.com/effekseer/Effekseer",
+      "https://github.com/Zylann/godot_voxel"
+     ],
+     "text": "🔥 Пилим свою GTA VI — собрали 1️⃣0️⃣ GitHub-репозиториев, с которыми Claude Code и Codex будут генерить почти ААА—проекты с открытым миром. \n\n• Jolt Physics — реалистичная физика и столкновения\n• Terrain3D — огромные ландшафты, горы и леса в Godot\n• Material Maker — текстуры и материалы для 3D-моделей\n• Effekseer — взрывы, магия и частицы \n• Voxel Tools for Godot — разрушаемые миры и пещеры, где можно копать\n• Recast Navigation — умное передвижение NPC и врагов\n• ozz-animation — плавная анимация персонажей\n• The Forge — фундамент для своего игрового движка\n• meshoptimizer — оптимизация моделей"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-10-31T22:18+03:00",
+   "title": "В интернете нашли вакансию с оплатой за игру в Dota 2 для людей старше 50 лет",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/SteamNetwork/37477",
+     "channel": "SteamNetwork",
+     "time": "2026-10-31T21:29:57+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "⚡️Вакансия мечты существует: в сети ищут 50-летних скуфов, чтобы платить им за игру в Dota 2  В интернете нашли сайт с вакансией от 1win для пожилых кибератлетов. Кандидатам 50+ лет предлагают реальную зарплату за то, что они будут играть в Доту минимум по…"
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -361,6 +397,7 @@
   "https://t.me/SteamNetwork/37474",
   "https://t.me/SteamNetwork/37475",
   "https://t.me/SteamNetwork/37476",
+  "https://t.me/SteamNetwork/37477",
   "https://t.me/blokirovki_runeta/1993",
   "https://t.me/blokirovki_runeta/1994",
   "https://t.me/blokirovki_runeta/1995",
@@ -380,6 +417,7 @@
   "https://t.me/petrovtel/83893",
   "https://t.me/petrovtel/83894",
   "https://t.me/petrovtel/83895",
+  "https://t.me/petrovtel/83896",
   "https://t.me/provod/24474",
   "https://t.me/provod/24475",
   "https://t.me/provod/24476",
@@ -388,7 +426,9 @@
   "https://t.me/provod/24479",
   "https://t.me/provod/24480",
   "https://t.me/provod/24481",
-  "https://t.me/provod/24482"
+  "https://t.me/provod/24482",
+  "https://t.me/provod/24483",
+  "https://t.me/retra/36781"
  ],
- "updated": "2026-10-31T21:06+03:00"
+ "updated": "2026-10-31T22:18+03:00"
 }
