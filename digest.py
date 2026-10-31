@@ -38,7 +38,7 @@ def read_channels(start):
             for _ in range(4):
                 page = get(url, timeout=30).decode("utf-8", "replace")
                 blocks = page.split('class="tgme_widget_message_wrap')[1:] + blocks
-                ids = re.findall(r'data-post="[^"]/+(\d+)"', page)
+                ids = re.findall(r'data-post="[^"/]+/(\d+)"', page)
                 tms = re.findall(r'<time datetime="([^"]+)"', page)
                 if not ids or not tms or dt.datetime.fromisoformat(tms[0]).astimezone(MSK) < start:
                     break
@@ -75,22 +75,21 @@ def read_channels(start):
     return posts
 
 
-def pick_model():
+def pick_models():
+    """Список бесплатных моделей по порядку: если одна перегружена (429), берём следующую."""
     if MODEL:
-        return MODEL
+        return [m.strip() for m in MODEL.split(",") if m.strip()]
     try:
         data = json.loads(get("https://openrouter.ai/api/v1/models", timeout=30))["data"]
-        free = [m for m in data if m.get("id", "").endswith(":free")]
-        free.sort(key=lambda m: -(m.get("context_length") or 0))
-        prefer = ("deepseek", "qwen", "llama", "gemma", "mistral")
-        for p in prefer:
-            for m in free:
-                if p in m["id"]:
-                    return m["id"]
-        return free[0]["id"] if free else ""
+        free = [m["id"] for m in data if m.get("id", "").endswith(":free")
+                and (m.get("context_length") or 0) >= 32000]
     except Exception as e:
         log("не удалось получить список моделей:", type(e).__name__)
-        return ""
+        return []
+    prefer = ("deepseek", "qwen", "llama-3.3", "gpt-oss", "mistral", "gemma", "glm", "llama")
+    ordered = [m for p in prefer for m in free if p in m]
+    ordered += [m for m in free if m not in ordered]
+    return list(dict.fromkeys(ordered))[:8]
 
 
 PROMPT = """Ты помощник редактора Telegram-канала о технологиях и интернете для обычных людей в России.
@@ -98,11 +97,9 @@ PROMPT = """Ты помощник редактора Telegram-канала о т
 
 Задача:
 1. Выкинь рекламу, розыгрыши, промокоды, подборки, мемы без новости, продвижение каналов и ботов.
-2. Выкинь новости, которые повторяют тему из списка «УЖЕ БЫЛО» (то же событие, даже другими словами), если не нужно сделать отдельный репост по другой причине.
+2. Выкинь новости, которые повторяют тему из списка «УЖЕ БЫЛО» (то же событие, даже другими словами), если нет существенно нового факта.
 3. Склей одну и ту же историю из разных каналов в одну тему.
-4. Для каждой оставшейся темы верни: ids (номера публикаций этой темы), title (суть одной строкой по-русски, без лишних деталей), games (true только если это про игры/Steam/пиксельные новости)
-5. Не бери темы, которые уже были, даже если на первый взгляд обзор/новость выглядит новой.
-6. Держи список тем компактным: 3–8 тем в день, максимум 1–2 игры в день.
+4. Для каждой оставшейся темы верни: ids (номера публикаций этой темы), title (суть одной строкой по-русски, без эмодзи), games (true, если тема про игры).
 
 Ответь ТОЛЬКО JSON без пояснений: {"topics":[{"ids":[1,4],"title":"...","games":false}]}
 Если ничего не осталось: {"topics":[]}
@@ -114,21 +111,26 @@ PROMPT = """Ты помощник редактора Telegram-канала о т
 %s"""
 
 
-def ask_llm(model, new_posts, old_titles):
+def ask_llm(models, new_posts, old_titles):
     listing = "\n".join(f"{i}. [{p['channel']}] {p['text'][:400]}" for i, p in enumerate(new_posts, 1))
     prompt = PROMPT % ("\n".join(f"- {t}" for t in old_titles) or "- (пусто)", listing)
-    body = json.dumps({"model": model, "messages": [{"role": "user", "content": prompt}],
-                       "temperature": 0.1}).encode()
-    for attempt in range(3):
-        try:
-            r = json.loads(get("https://openrouter.ai/api/v1/chat/completions", data=body, timeout=120,
-                               headers={"Authorization": "Bearer " + KEY, "Content-Type": "application/json"}))
-            txt = r["choices"][0]["message"]["content"]
-            m = re.search(r"\{.*\}", txt, re.S)
-            return json.loads(m.group(0))["topics"]
-        except Exception as e:
-            log("модель не ответила:", type(e).__name__, str(e)[:200])
-            time.sleep(10)
+    for model in models:
+        body = json.dumps({"model": model, "messages": [{"role": "user", "content": prompt}],
+                           "temperature": 0.1}).encode()
+        for attempt in range(2):
+            try:
+                r = json.loads(get("https://openrouter.ai/api/v1/chat/completions", data=body, timeout=120,
+                                   headers={"Authorization": "Bearer " + KEY, "Content-Type": "application/json"}))
+                txt = r["choices"][0]["message"]["content"]
+                m = re.search(r"\{.*\}", txt, re.S)
+                topics = json.loads(m.group(0))["topics"]
+                log("ответила модель:", model)
+                return topics
+            except Exception as e:
+                log("модель", model, "не ответила:", type(e).__name__, str(e)[:120])
+                if "429" in str(e):
+                    break          # перегружена – сразу к следующей
+                time.sleep(5)
     return None
 
 
@@ -147,9 +149,9 @@ def main():
     log(f"новых публикаций: {len(new)}")
 
     if new:
-        model = pick_model() if KEY else ""
-        log("модель:", model or "нет – без фильтра")
-        topics = ask_llm(model, new, [t["title"] for t in state["topics"]]) if model else None
+        models = pick_models() if KEY else []
+        log("модели:", ", ".join(models) or "нет – без фильтра")
+        topics = ask_llm(models, new, [t["title"] for t in state["topics"]]) if models else None
         if topics is None:      # запасной вариант: каждая публикация – отдельная тема, Claude разберётся
             topics = [{"ids": [i], "title": p["text"][:120].replace("\n", " "), "games": p["channel"] == "SteamNetwork"}
                       for i, p in enumerate(new, 1)]
