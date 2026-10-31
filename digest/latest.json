@@ -295,6 +295,59 @@
      "text": "⚡️ Выпускаем на 100% рабочие игры — разрабы из Aura выложили в опенсорс агента Autopilot, который сам проходит и тестирует игры.\n\nСоздатели мощного игрового ИИ-агента отдают своего тестировщика абсолютно БЕСПЛАТНО. И это мастхев для каждого инди-разраба, даже если вы не вайбкодите.\n\nПишете задачу словами, например «проверь крафт» или «убей босса, сохранив больше 20% здоровья», а агент сам запускает игру, играет вместо вас и приносит отчёт\n\nРаботает с Unreal Engine 5, Unity 6 и Godot 4 на Windows и macOS.\n\nВаши игры без багов — Autopilot\n\n⚡️ Провод"
     }
    ]
+  },
+  {
+   "first_seen": "2026-10-31T21:06+03:00",
+   "title": "В США хотят проверить переписки Трампа с нейросетями",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/petrovtel/83895",
+     "channel": "petrovtel",
+     "time": "2026-10-31T20:10:18+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "Переписки Трампа с ChatGPT и Grok хотят проверить в США\n\nДемократы потребовали сохранить все разговоры президента с нейросетями, чтобы выяснить, не влиял ли ИИ на решения Белого дома.\n\nПоводом стали сообщения, что Трамп советовался с Grok перед операцией по захвату Николаса Мадуро. Конгрессмены также хотят изучить переписки с Claude и Gemini. Объяснений ждут до 11 ноября.\n\nКК 🐀"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-10-31T21:06+03:00",
+   "title": "Путин поручил проработать оплату проезда через МАХ",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/blokirovki_runeta/1997",
+     "channel": "blokirovki_runeta",
+     "time": "2026-10-31T20:30:03+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "😐 Путин поручил рассмотреть возможность использовать МАХ для оплаты проезда в транспорте.   Главное, чтобы автобус тоже был в белом списке.  @blokirovki_runeta"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-10-31T21:06+03:00",
+   "title": "NVIDIA прекратила поддержку Windows 10 и драйверы Game Ready",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/provod/24482",
+     "channel": "provod",
+     "time": "2026-10-31T20:43:55+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "⚡️ NVIDIA прекратила поддержку Windows 10 — с ноября драйверы Game Ready перестают работать на десятке. Последний вышел 21 октября.\n\nПохоронная.\n\n⚡️ Провод"
+    },
+    {
+     "url": "https://t.me/SteamNetwork/37476",
+     "channel": "SteamNetwork",
+     "time": "2026-10-31T20:48:55+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "⚡️NVIDIA прекратила поддержку Windows 10 — с ноября десятка перестанет получать новые драйверы Game Ready\n\nПоследний драйвер вышел 21 октября\n\n☠️"
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -307,10 +360,12 @@
   "https://t.me/SteamNetwork/37473",
   "https://t.me/SteamNetwork/37474",
   "https://t.me/SteamNetwork/37475",
+  "https://t.me/SteamNetwork/37476",
   "https://t.me/blokirovki_runeta/1993",
   "https://t.me/blokirovki_runeta/1994",
   "https://t.me/blokirovki_runeta/1995",
   "https://t.me/blokirovki_runeta/1996",
+  "https://t.me/blokirovki_runeta/1997",
   "https://t.me/media1337/28982",
   "https://t.me/media1337/28983",
   "https://t.me/media1337/28984",
@@ -324,13 +379,16 @@
   "https://t.me/petrovtel/83892",
   "https://t.me/petrovtel/83893",
   "https://t.me/petrovtel/83894",
+  "https://t.me/petrovtel/83895",
   "https://t.me/provod/24474",
   "https://t.me/provod/24475",
   "https://t.me/provod/24476",
   "https://t.me/provod/24477",
   "https://t.me/provod/24478",
   "https://t.me/provod/24479",
-  "https://t.me/provod/24480"
+  "https://t.me/provod/24480",
+  "https://t.me/provod/24481",
+  "https://t.me/provod/24482"
  ],
- "updated": "2026-10-31T20:11+03:00"
+ "updated": "2026-10-31T21:06+03:00"
 }
