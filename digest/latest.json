@@ -263,6 +263,38 @@
      "text": "Павел Прилучный потребовал более 2,8 млн рублей за подушку со своим лицом\n\nАктёр подал в суд на предпринимательницу, которая продавала подушки-дакимакуры с его изображением. \n\nТеперь он намерен взыскать с неё компенсацию морального вреда, сообщает ТАСС.\n\nКК 🐀"
     }
    ]
+  },
+  {
+   "first_seen": "2026-10-31T20:11+03:00",
+   "title": "Клауд помогает в поиске работы",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/media1337/28984",
+     "channel": "media1337",
+     "time": "2026-10-31T19:30:03+03:00",
+     "media": "2 фото",
+     "links": [],
+     "text": "Claude отличный помощник в поиске работы.\n\n🌒 1337"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-10-31T20:11+03:00",
+   "title": "ИИ-агент для тестирования игр стал открытым исходным кодом",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/provod/24480",
+     "channel": "provod",
+     "time": "2026-10-31T19:41:55+03:00",
+     "media": "1 видео",
+     "links": [
+      "https://github.com/ramenvr/autopilot"
+     ],
+     "text": "⚡️ Выпускаем на 100% рабочие игры — разрабы из Aura выложили в опенсорс агента Autopilot, который сам проходит и тестирует игры.\n\nСоздатели мощного игрового ИИ-агента отдают своего тестировщика абсолютно БЕСПЛАТНО. И это мастхев для каждого инди-разраба, даже если вы не вайбкодите.\n\nПишете задачу словами, например «проверь крафт» или «убей босса, сохранив больше 20% здоровья», а агент сам запускает игру, играет вместо вас и приносит отчёт\n\nРаботает с Unreal Engine 5, Unity 6 и Godot 4 на Windows и macOS.\n\nВаши игры без багов — Autopilot\n\n⚡️ Провод"
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -272,12 +304,16 @@
   "https://t.me/SteamNetwork/37469",
   "https://t.me/SteamNetwork/37470",
   "https://t.me/SteamNetwork/37472",
+  "https://t.me/SteamNetwork/37473",
+  "https://t.me/SteamNetwork/37474",
+  "https://t.me/SteamNetwork/37475",
   "https://t.me/blokirovki_runeta/1993",
   "https://t.me/blokirovki_runeta/1994",
   "https://t.me/blokirovki_runeta/1995",
   "https://t.me/blokirovki_runeta/1996",
   "https://t.me/media1337/28982",
   "https://t.me/media1337/28983",
+  "https://t.me/media1337/28984",
   "https://t.me/petrovtel/83885",
   "https://t.me/petrovtel/83886",
   "https://t.me/petrovtel/83887",
@@ -293,7 +329,8 @@
   "https://t.me/provod/24476",
   "https://t.me/provod/24477",
   "https://t.me/provod/24478",
-  "https://t.me/provod/24479"
+  "https://t.me/provod/24479",
+  "https://t.me/provod/24480"
  ],
- "updated": "2026-10-31T19:10+03:00"
+ "updated": "2026-10-31T20:11+03:00"
 }
