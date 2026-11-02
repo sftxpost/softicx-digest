@@ -1,53 +1,6 @@
 {
  "topics": [
   {
-   "first_seen": "2026-11-01T20:11+03:00",
-   "title": "В Подмосковье за месяц выявили три случая оспы обезьян",
-   "games": false,
-   "posts": [
-    {
-     "url": "https://t.me/petrovtel/83943",
-     "channel": "petrovtel",
-     "time": "2026-11-01T19:15:01+03:00",
-     "media": "1 фото",
-     "links": [],
-     "text": "В Подмосковье за месяц выявили уже третий случай оспы обезьян\n\nМужчину с подтверждённым диагнозом экстренно госпитализировали.\n\nКК 🐀"
-    }
-   ]
-  },
-  {
-   "first_seen": "2026-11-01T20:11+03:00",
-   "title": "В Северной Корее представили складной смартфон Madusan",
-   "games": false,
-   "posts": [
-    {
-     "url": "https://t.me/blokirovki_runeta/2002",
-     "channel": "blokirovki_runeta",
-     "time": "2026-11-01T19:47:26+03:00",
-     "media": "1 видео",
-     "links": [],
-     "text": "🤭 Общественности представили «убийцу» IPhone Duo и сделали его … в Северной Корее \n\nПервый складной смартфон из этой азиатской страны называется Madusan. Новинка работает на собственной версии Android, не поддерживает иностранные SIM-карты и не подключается к Wi-Fi за пределами страны.\n\n@blokirovki_runeta"
-    }
-   ]
-  },
-  {
-   "first_seen": "2026-11-01T20:11+03:00",
-   "title": "В Steam вышел демо-релиз симулятора гриба Mycelarium",
-   "games": true,
-   "posts": [
-    {
-     "url": "https://t.me/SteamNetwork/37498",
-     "channel": "SteamNetwork",
-     "time": "2026-11-01T19:57:50+03:00",
-     "media": "3 фото, 1 видео",
-     "links": [
-      "https://store.steampowered.com/app/5181520/Mycelarium/"
-     ],
-     "text": "В Steam завезли симулятор ГРИБА — в Mycelarium предстоит захватить целый лес с помощью грибницы\n\nРазрастаемся под землей, строим огромную сеть мицелия, прокачиваем ее и отбиваемся от лесных обитателей. Погода и почва тоже будут мешать грибному господству\n\nДемка уже доступна, а полноценный релиз состоится 3 ноября"
-    }
-   ]
-  },
-  {
    "first_seen": "2026-11-01T21:07+03:00",
    "title": "Xiaomi выпустила компактную ИИ-модель для обработки документов",
    "games": false,
@@ -514,6 +467,38 @@
      "text": "Московские пенсионеры вынесли зумеров в CS2 — команда геймеров от 55 до 64 лет изрешетила сборную молодых блогеров. \n\n«Московское долголетие» забрало первые семь раундов подряд и в итоге победило со счётом 13:10.\n\nМы отправили худших 🚬\n\n⚡️ Провод"
     }
    ]
+  },
+  {
+   "first_seen": "2026-11-02T20:29+03:00",
+   "title": "В СберБанк Онлайн появился раздел проверки цифровой защиты и подключения сервисов безопасности",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/provod/24528",
+     "channel": "provod",
+     "time": "2026-11-02T20:19:50+03:00",
+     "media": "1 видео",
+     "links": [
+      "https://v.sber.ru/sms/frkkonevsky?utm_source=telegram&amp;utm_medium=fix&amp;utm_campaign=sber_bezopasniy_bank_oct_2026_post_rk2511611gr59880&amp;utm_content=&amp;utm_term=provod&amp;erid=2VfnxxbKGV2"
+     ],
+     "text": "Прокачиваем свою цифровую защиту за пару кликов — мошенники становятся всё более изощрёнными, поэтому важно время от времени проверять, всё ли по-прежнему надёжно.\n\nСделать это можно прямо в СберБанк Онлайн: заходим в раздел «Безопасность» — сразу увидим свой уровень: базовый, средний или продвинутый. \n\nА дальше приложение само подскажет, какие бесплатные сервисы подключить: «Определитель номера», «Антивирус» или «Доверенный контакт».\n\nНачинаем с простого — быстро проверить уровень можно в приложении. \n\n⚡Провод"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-02T20:29+03:00",
+   "title": "Для игры Elden Ring ищут срочно нужный мод",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/SteamNetwork/37526",
+     "channel": "SteamNetwork",
+     "time": "2026-11-02T20:04:08+03:00",
+     "media": "1 видео",
+     "links": [],
+     "text": "Нам срочно нужен такой мод для Elden Ring"
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -549,6 +534,7 @@
   "https://t.me/SteamNetwork/37520",
   "https://t.me/SteamNetwork/37521",
   "https://t.me/SteamNetwork/37524",
+  "https://t.me/SteamNetwork/37526",
   "https://t.me/blokirovki_runeta/1993",
   "https://t.me/blokirovki_runeta/1994",
   "https://t.me/blokirovki_runeta/1995",
@@ -588,6 +574,7 @@
   "https://t.me/media1337/29007",
   "https://t.me/media1337/29008",
   "https://t.me/media1337/29010",
+  "https://t.me/media1337/29011",
   "https://t.me/petrovtel/83885",
   "https://t.me/petrovtel/83886",
   "https://t.me/petrovtel/83887",
@@ -625,6 +612,7 @@
   "https://t.me/petrovtel/83963",
   "https://t.me/petrovtel/83965",
   "https://t.me/petrovtel/83968",
+  "https://t.me/petrovtel/83969",
   "https://t.me/provod/24474",
   "https://t.me/provod/24475",
   "https://t.me/provod/24476",
@@ -657,6 +645,7 @@
   "https://t.me/provod/24525",
   "https://t.me/provod/24526",
   "https://t.me/provod/24527",
+  "https://t.me/provod/24528",
   "https://t.me/retra/36781",
   "https://t.me/retra/36787",
   "https://t.me/retra/36788",
@@ -667,7 +656,8 @@
   "https://t.me/retra/36796",
   "https://t.me/retra/36797",
   "https://t.me/retra/36800",
-  "https://t.me/retra/36801"
+  "https://t.me/retra/36801",
+  "https://t.me/retra/36802"
  ],
- "updated": "2026-11-02T19:37+03:00"
+ "updated": "2026-11-02T20:29+03:00"
 }
