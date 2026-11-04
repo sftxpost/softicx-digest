@@ -1,21 +1,6 @@
 {
  "topics": [
   {
-   "first_seen": "2026-11-03T12:27+03:00",
-   "title": "Теперь на SSD можно не тратиться",
-   "games": false,
-   "posts": [
-    {
-     "url": "https://t.me/SteamNetwork/37535",
-     "channel": "SteamNetwork",
-     "time": "2026-11-03T11:39:58+03:00",
-     "media": "1 фото",
-     "links": [],
-     "text": "Теперь на SSD можно не тратиться.."
-    }
-   ]
-  },
-  {
    "first_seen": "2026-11-03T13:29+03:00",
    "title": "Электросамокаты в России приравняли к мопедам и запретили ездить по тротуарам",
    "games": false,
@@ -424,6 +409,21 @@
      "text": "Лол, Сэм Альтман сменил своё имя в Твиттере на Ram Altman (Оперативка Альтмана).\n\nРанее босс OpenAI заявил, что оперативка в твоём компе не работает 95% времени и должна стоять в дата-центре.\n\nСрочно прячем оперативку 😱\n\n⚡Провод"
     }
    ]
+  },
+  {
+   "first_seen": "2026-11-04T12:30+03:00",
+   "title": "В Мире Танков вернули PvE режим «Разлом»",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/SteamNetwork/37554",
+     "channel": "SteamNetwork",
+     "time": "2026-11-04T12:00:15+03:00",
+     "media": "1 видео",
+     "links": [],
+     "text": "⚡️В Мир Танков вернули «Разлом»\n\nЭто PvE режим, где пять игроков отправляются в иную реальность:\n🔵Сносят Башни, уничтожают Врата, телепортируются по карте и сражаются с боссами на уникальной технике\n🔵Имеются 3 уровня, где на аномальном вас ждёт Ратте — двуствольная машина с смертоносной аурой\n🔵Пройдя 10 этапов, можно забрать премиум-танк Crusher\n🔵За победы над Ратте, получаешь Сердца и скидку до 90% на танк Gasta\n\nРежим доступен 4-18 ноября"
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -476,6 +476,8 @@
   "https://t.me/SteamNetwork/37550",
   "https://t.me/SteamNetwork/37551",
   "https://t.me/SteamNetwork/37552",
+  "https://t.me/SteamNetwork/37553",
+  "https://t.me/SteamNetwork/37554",
   "https://t.me/blokirovki_runeta/1993",
   "https://t.me/blokirovki_runeta/1994",
   "https://t.me/blokirovki_runeta/1995",
@@ -508,6 +510,7 @@
   "https://t.me/blokirovki_runeta/2024",
   "https://t.me/blokirovki_runeta/2025",
   "https://t.me/blokirovki_runeta/2026",
+  "https://t.me/blokirovki_runeta/2027",
   "https://t.me/media1337/28982",
   "https://t.me/media1337/28983",
   "https://t.me/media1337/28984",
@@ -538,6 +541,7 @@
   "https://t.me/media1337/29022",
   "https://t.me/media1337/29024",
   "https://t.me/media1337/29025",
+  "https://t.me/media1337/29026",
   "https://t.me/petrovtel/83885",
   "https://t.me/petrovtel/83886",
   "https://t.me/petrovtel/83887",
@@ -665,7 +669,8 @@
   "https://t.me/retra/36815",
   "https://t.me/retra/36816",
   "https://t.me/retra/36818",
-  "https://t.me/retra/36821"
+  "https://t.me/retra/36821",
+  "https://t.me/retra/36824"
  ],
- "updated": "2026-11-04T10:51+03:00"
+ "updated": "2026-11-04T12:30+03:00"
 }
