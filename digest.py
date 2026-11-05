@@ -5,7 +5,7 @@ Claude потом читает этот файл и пишет посты.
 """
 import os, re, json, html, time, urllib.request, datetime as dt
 
-CH = ["petrovtel", "media1337", "blokirovki_runeta", "provod", "retra", "SteamNetwork", "cybers", "NewGameProject"]
+CH = ["petrovtel", "media1337", "blokirovki_runeta", "provod", "retra", "SteamNetwork", "cybers", "NewGameProject", "naebnet"]
 MSK = dt.timezone(dt.timedelta(hours=3))
 OUT = "digest/latest.json"
 KEEP_HOURS = 24
