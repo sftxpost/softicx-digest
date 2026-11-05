@@ -5,7 +5,7 @@ Claude потом читает этот файл и пишет посты.
 """
 import os, re, json, html, time, urllib.request, datetime as dt
 
-CH = ["petrovtel", "media1337", "blokirovki_runeta", "provod", "retra", "SteamNetwork", "cybers"]
+CH = ["petrovtel", "media1337", "blokirovki_runeta", "provod", "retra", "SteamNetwork", "cybers", "NewGameProject"]
 MSK = dt.timezone(dt.timedelta(hours=3))
 OUT = "digest/latest.json"
 KEEP_HOURS = 24
@@ -153,7 +153,7 @@ def main():
         log("модели:", ", ".join(models) or "нет – без фильтра")
         topics = ask_llm(models, new, [t["title"] for t in state["topics"]]) if models else None
         if topics is None:      # запасной вариант: каждая публикация – отдельная тема, Claude разберётся
-            topics = [{"ids": [i], "title": p["text"][:120].replace("\n", " "), "games": p["channel"] in ("SteamNetwork", "cybers")}
+            topics = [{"ids": [i], "title": p["text"][:120].replace("\n", " "), "games": p["channel"] in ("SteamNetwork", "cybers", "NewGameProject")}
                       for i, p in enumerate(new, 1)]
         for t in topics:
             items = [new[i - 1] for i in t.get("ids", []) if isinstance(i, int) and 1 <= i <= len(new)]
