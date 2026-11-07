@@ -1,55 +1,6 @@
 {
  "topics": [
   {
-   "first_seen": "2026-11-06T22:32+03:00",
-   "title": "По «Сумеркам» выпустят мультсериал сразу на два сезона",
-   "games": false,
-   "posts": [
-    {
-     "url": "https://t.me/petrovtel/84074",
-     "channel": "petrovtel",
-     "time": "2026-11-06T22:08:12+03:00",
-     "media": "1 фото",
-     "links": [],
-     "text": "По «Сумеркам» выпустят мультсериал сразу на два сезона — историю покажут глазами Эдварда Каллена\n\nПроект получил название «Midnight Sun» в честь одноимённой книги Стефани Майер, где события оригинальной саги рассказаны от лица вампира.\n\nНад сериалом работают Netflix и Lionsgate, а сама писательница выступит продюсером. Производство стартует в Лос-Анджелесе в ближайшие месяцы.\n\nКК 🐀"
-    }
-   ]
-  },
-  {
-   "first_seen": "2026-11-06T22:32+03:00",
-   "title": "Подключение Figma к ИИ-агентам без лимитов",
-   "games": false,
-   "posts": [
-    {
-     "url": "https://t.me/provod/24604",
-     "channel": "provod",
-     "time": "2026-11-06T22:15:54+03:00",
-     "media": "1 видео",
-     "links": [
-      "https://www.figma.com/downloads/",
-      "https://github.com/southleft/figma-console-mcp",
-      "https://docs.figma-console-mcp.southleft.com/setup"
-     ],
-     "text": "Подключаем Figma к ИИ-агентам БЕЗ ЛИМИТОВ — найден бесплатный инструмент, который даёт нейронке полноценно работать с вашими макетами.\n\nВсего 1️⃣3️⃣0️⃣ инструментов. Что умеет: \n• Создавать и редактировать фреймы, фигуры, текст и компоненты.\n• Настраивать прототипы, стили и анимации.\n• Отслеживать правки в реальном времени.\n• Управлять переменными и дизайн-системами.\n\nКак подключить:\n• Скачайте десктопную Figma.\n• Скиньте нейронке этот репозиторий и попросите всё настроить. \n• Откройте нужный макет и запустите плагин через Plugins → Development → Figma Desktop Bridge.\n\nПолная инструкция по нас"
-    }
-   ]
-  },
-  {
-   "first_seen": "2026-11-06T22:32+03:00",
-   "title": "Discord на Rust запускается за долю секунды",
-   "games": false,
-   "posts": [
-    {
-     "url": "https://t.me/NewGameProject/33606",
-     "channel": "NewGameProject",
-     "time": "2026-11-06T22:00:22+03:00",
-     "media": "1 видео",
-     "links": [],
-     "text": "⚡️Discord на Rust запускается за долю секунды — техдиректор Станислав Вишневский протестил и показал работу обновленного сервиса  По его словам, каждый клик ощущается «мгновенным», а само приложение специально запустили на двух старых ноутах  Апдейт должны…"
-    }
-   ]
-  },
-  {
    "first_seen": "2026-11-06T23:23+03:00",
    "title": "Суд в Испании запретил Кизарауру приближаться к Кате ближе чем на 500 метров",
    "games": false,
@@ -781,6 +732,38 @@
      "text": "Resident Evil Зака Креггера вышел в домашнем прокате  Прямо сейчас это лучший фильм по видеоиграм и самый высокооценённый хоррор этого года — сборы уже составили $400 млн"
     }
    ]
+  },
+  {
+   "first_seen": "2026-11-07T23:11+03:00",
+   "title": "NVIDIA ограничила генерацию кадров DLSS на RTX 30 и RTX 20",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/media1337/29064",
+     "channel": "media1337",
+     "time": "2026-11-07T22:30:23+03:00",
+     "media": "1 фото",
+     "links": [
+      "https://github.com/dashdogy/MFG-Unlocker"
+     ],
+     "text": "NVIDIA специально ограничивала генерацию кадров на RTX 30 и RTX 20 — технологию запустили через MFG Unlocker.\n\nКомпания уверяла, что DLSS Frame Generation не работает на старых карточках из-за аппаратных ограничений — Hardware Unboxed решили проверить это.\n\nОказалось, что даже на прошлых поколениях RTX она работает без серьёзных проблем: нагрузка GPU и плавность изображения остаётся на уровне RTX 40 и RTX 50.\n\nПробуем — здесь.\n\n🌒 1337"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-07T23:11+03:00",
+   "title": "Assassin’s Creed Hexe отложена до 2028 года",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/NewGameProject/33615",
+     "channel": "NewGameProject",
+     "time": "2026-11-07T22:47:00+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "‼️Assassin’s Creed Hexe отложили до 2028 года — у Ubisoft появились проблемы в разработке игры, поэтому они приняли решение перенести её на следующий год\n\nПомимо Hexe, компания работает над ещё двумя частями: Code Name Mars и Code Name Pocket, которые перенесут игроков в мир Древнего Рима и Иерусалима"
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -801,6 +784,7 @@
   "https://t.me/NewGameProject/33612",
   "https://t.me/NewGameProject/33613",
   "https://t.me/NewGameProject/33614",
+  "https://t.me/NewGameProject/33615",
   "https://t.me/SteamNetwork/37465",
   "https://t.me/SteamNetwork/37467",
   "https://t.me/SteamNetwork/37468",
@@ -896,6 +880,7 @@
   "https://t.me/SteamNetwork/37638",
   "https://t.me/SteamNetwork/37639",
   "https://t.me/SteamNetwork/37640",
+  "https://t.me/SteamNetwork/37641",
   "https://t.me/blokirovki_runeta/1993",
   "https://t.me/blokirovki_runeta/1994",
   "https://t.me/blokirovki_runeta/1995",
@@ -991,6 +976,7 @@
   "https://t.me/cybers/40117",
   "https://t.me/cybers/40118",
   "https://t.me/cybers/40119",
+  "https://t.me/cybers/40120",
   "https://t.me/media1337/28982",
   "https://t.me/media1337/28983",
   "https://t.me/media1337/28984",
@@ -1047,6 +1033,7 @@
   "https://t.me/media1337/29061",
   "https://t.me/media1337/29062",
   "https://t.me/media1337/29063",
+  "https://t.me/media1337/29064",
   "https://t.me/naebnet/17819",
   "https://t.me/naebnet/17821",
   "https://t.me/naebnet/17822",
@@ -1170,6 +1157,7 @@
   "https://t.me/petrovtel/84092",
   "https://t.me/petrovtel/84095",
   "https://t.me/petrovtel/84096",
+  "https://t.me/petrovtel/84099",
   "https://t.me/provod/24474",
   "https://t.me/provod/24475",
   "https://t.me/provod/24476",
@@ -1316,7 +1304,8 @@
   "https://t.me/retra/36872",
   "https://t.me/retra/36873",
   "https://t.me/retra/36874",
-  "https://t.me/retra/36875"
+  "https://t.me/retra/36875",
+  "https://t.me/retra/36876"
  ],
- "updated": "2026-11-07T22:22+03:00"
+ "updated": "2026-11-07T23:11+03:00"
 }
