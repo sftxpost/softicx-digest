@@ -1,86 +1,6 @@
 {
  "topics": [
   {
-   "first_seen": "2026-11-07T22:22+03:00",
-   "title": "Силовики задержали более 100 человек при рейде в Китай-городе в Москве",
-   "games": false,
-   "posts": [
-    {
-     "url": "https://t.me/petrovtel/84096",
-     "channel": "petrovtel",
-     "time": "2026-11-07T21:25:35+03:00",
-     "media": "3 видео",
-     "links": [],
-     "text": "Более 100 человек задержали силовики во время массового рейда на Китай-Городе в Москве\n\nПо словам очевидцев, к парку «Горка» подъехали свыше 10 автозаков, после чего полиция начала задерживать молодых людей возле баров и на улицах. Среди задержанных есть несовершеннолетние, родителям которых ничего не сообщают. \n\nЛюдей доставили в ОВД «Басманный» и «Таганский», где их ждут беседы с силовиками. Причины задержаний неизвестны.\n\nКК 🐀"
-    }
-   ]
-  },
-  {
-   "first_seen": "2026-11-07T22:22+03:00",
-   "title": "Мод объединяет Fallout 3, New Vegas и Fallout 4 в одну игру с коопом",
-   "games": true,
-   "posts": [
-    {
-     "url": "https://t.me/SteamNetwork/37640",
-     "channel": "SteamNetwork",
-     "time": "2026-11-07T21:19:01+03:00",
-     "media": "1 видео",
-     "links": [
-      "https://www.nexusmods.com/fallout4/mods/110254",
-      "https://www.nexusmods.com/fallout4/mods/110353"
-     ],
-     "text": "Fallout 3, New Vegas и Fallout 4 объединили в одну огромную игру с коопом — мод получил название Fallout 34\n\nВнутри:\n😥Все три части на движке четвёртой\n😥Свободное путешествие между мирами и прохождение сюжеток\n😥Оружие, броню, персонажей и квесты из всех частей\n😥Кооп с друзьями через отдельный мультиплеерный мод\n😥Совместные квесты и пользовательские миссии\n\nСам мод качаем — тут, а кооп — здесь"
-    }
-   ]
-  },
-  {
-   "first_seen": "2026-11-07T22:22+03:00",
-   "title": "Фильм Resident Evil Зака Креггера вышел в домашнем прокате",
-   "games": false,
-   "posts": [
-    {
-     "url": "https://t.me/NewGameProject/33614",
-     "channel": "NewGameProject",
-     "time": "2026-11-07T21:59:27+03:00",
-     "media": "1 видео",
-     "links": [],
-     "text": "Resident Evil Зака Креггера вышел в домашнем прокате  Прямо сейчас это лучший фильм по видеоиграм и самый высокооценённый хоррор этого года — сборы уже составили $400 млн"
-    }
-   ]
-  },
-  {
-   "first_seen": "2026-11-07T23:11+03:00",
-   "title": "NVIDIA ограничила генерацию кадров DLSS на RTX 30 и RTX 20",
-   "games": true,
-   "posts": [
-    {
-     "url": "https://t.me/media1337/29064",
-     "channel": "media1337",
-     "time": "2026-11-07T22:30:23+03:00",
-     "media": "1 фото",
-     "links": [
-      "https://github.com/dashdogy/MFG-Unlocker"
-     ],
-     "text": "NVIDIA специально ограничивала генерацию кадров на RTX 30 и RTX 20 — технологию запустили через MFG Unlocker.\n\nКомпания уверяла, что DLSS Frame Generation не работает на старых карточках из-за аппаратных ограничений — Hardware Unboxed решили проверить это.\n\nОказалось, что даже на прошлых поколениях RTX она работает без серьёзных проблем: нагрузка GPU и плавность изображения остаётся на уровне RTX 40 и RTX 50.\n\nПробуем — здесь.\n\n🌒 1337"
-    }
-   ]
-  },
-  {
-   "first_seen": "2026-11-07T23:11+03:00",
-   "title": "Assassin’s Creed Hexe отложена до 2028 года",
-   "games": true,
-   "posts": [
-    {
-     "url": "https://t.me/NewGameProject/33615",
-     "channel": "NewGameProject",
-     "time": "2026-11-07T22:47:00+03:00",
-     "media": "1 фото",
-     "links": [],
-     "text": "‼️Assassin’s Creed Hexe отложили до 2028 года — у Ubisoft появились проблемы в разработке игры, поэтому они приняли решение перенести её на следующий год\n\nПомимо Hexe, компания работает над ещё двумя частями: Code Name Mars и Code Name Pocket, которые перенесут игроков в мир Древнего Рима и Иерусалима"
-    }
-   ]
-  },
-  {
    "first_seen": "2026-11-08T09:25+03:00",
    "title": "В ремейк Zelda добавили Сиджея",
    "games": true,
@@ -767,6 +687,7 @@
   "https://t.me/SteamNetwork/37652",
   "https://t.me/SteamNetwork/37654",
   "https://t.me/SteamNetwork/37657",
+  "https://t.me/SteamNetwork/37658",
   "https://t.me/blokirovki_runeta/1993",
   "https://t.me/blokirovki_runeta/1994",
   "https://t.me/blokirovki_runeta/1995",
@@ -826,6 +747,7 @@
   "https://t.me/blokirovki_runeta/2053",
   "https://t.me/blokirovki_runeta/2054",
   "https://t.me/blokirovki_runeta/2055",
+  "https://t.me/blokirovki_runeta/2056",
   "https://t.me/cybers/40046",
   "https://t.me/cybers/40048",
   "https://t.me/cybers/40049",
@@ -878,6 +800,7 @@
   "https://t.me/cybers/40136",
   "https://t.me/cybers/40137",
   "https://t.me/cybers/40140",
+  "https://t.me/cybers/40141",
   "https://t.me/media1337/28982",
   "https://t.me/media1337/28983",
   "https://t.me/media1337/28984",
@@ -1239,7 +1162,8 @@
   "https://t.me/retra/36879",
   "https://t.me/retra/36880",
   "https://t.me/retra/36881",
-  "https://t.me/retra/36882"
+  "https://t.me/retra/36882",
+  "https://t.me/retra/36883"
  ],
- "updated": "2026-11-08T22:21+03:00"
+ "updated": "2026-11-08T23:14+03:00"
 }
