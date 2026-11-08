@@ -670,6 +670,38 @@
      "text": "Вышел бесконечный Backrooms с нейросетью — хоррор запускается прямо в браузере, а все комнаты и монстры создаются ИИ на ходу.\n\nГлавные фишки:\n— Каждая комната генерируется случайно, поэтому даже разрабы не знают, что ждёт игроков дальше\n— Нейросеть создаёт жуткие локации, монстров и неожиданные события\n— Каждое прохождение уникально, а исследовать Бэкрумс можно бесконечно\n— Есть мультиплеер с голосовым чатом для игры с друзьями\n— Работает на ПК и смартфонах\n\nИграть можно прямо в браузере.\n\n🎮КиберТопор — Подписаться"
     }
    ]
+  },
+  {
+   "first_seen": "2026-11-08T11:26+03:00",
+   "title": "Telegram тестирует встроенного ИИ-помощника",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/blokirovki_runeta/2052",
+     "channel": "blokirovki_runeta",
+     "time": "2026-11-08T10:43:47+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "✈️ В Telegram тестируют возможного нового встроенного ИИ-помощника, сообщил «Код.ру». \n\nВ экспериментальной версии мессенджера для macOS обнаружили нейросеть, которая умеет разбирать сообщения, создавать небольшие приложения и запоминать информацию о пользователе. К помощнику можно подключить разные ИИ-модели.\n\n@blokirovki_runeta"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-08T11:26+03:00",
+   "title": "Steam выпустил симулятор больницы INTERNS",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/SteamNetwork/37646",
+     "channel": "SteamNetwork",
+     "time": "2026-11-08T11:07:00+03:00",
+     "media": "2 фото",
+     "links": [
+      "https://store.steampowered.com/app/4626180/INTERNS/?utm_source=telegram&amp;utm_campaign=rythm&amp;utm_medium=SteamCommunity&amp;utm_content=GameRelease&amp;utm_term=06.11.26_Image"
+     ],
+     "text": "Лобанов бы тут точно не выжил — в Steam вышел рофляный симулятор больницы INTERNS\n\nБерем на себя роль молодого врача: проводим обходы, заводим романы с коллегами и пациентами, влипаем в интриги и пытаемся не спалиться перед начальством\n\nВсем бы такой практики в медицинском"
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -790,6 +822,7 @@
   "https://t.me/SteamNetwork/37641",
   "https://t.me/SteamNetwork/37644",
   "https://t.me/SteamNetwork/37645",
+  "https://t.me/SteamNetwork/37646",
   "https://t.me/blokirovki_runeta/1993",
   "https://t.me/blokirovki_runeta/1994",
   "https://t.me/blokirovki_runeta/1995",
@@ -845,6 +878,7 @@
   "https://t.me/blokirovki_runeta/2049",
   "https://t.me/blokirovki_runeta/2050",
   "https://t.me/blokirovki_runeta/2051",
+  "https://t.me/blokirovki_runeta/2052",
   "https://t.me/cybers/40046",
   "https://t.me/cybers/40048",
   "https://t.me/cybers/40049",
@@ -1222,5 +1256,5 @@
   "https://t.me/retra/36875",
   "https://t.me/retra/36876"
  ],
- "updated": "2026-11-08T10:39+03:00"
+ "updated": "2026-11-08T11:26+03:00"
 }
