@@ -978,6 +978,108 @@
      "text": "❗️Дженсен Хуанг изменял жене с предполагаемой агенткой Китая  Глава NVIDIA признался в измене и извинился перед семьёй. Его любовницей оказалась Элис Хуанг, топ-менеджер Megaspeed, закупающей ИИ-чипы NVIDIA  По данным американских СМИ, женщину могли завербовать…"
     }
    ]
+  },
+  {
+   "first_seen": "2026-11-10T15:26+03:00",
+   "title": "США предложили перекроить административные границы Украины",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/petrovtel/84155",
+     "channel": "petrovtel",
+     "time": "2026-11-10T14:51:29+03:00",
+     "media": "1 видео",
+     "links": [],
+     "text": "США предложили перекроить административные границы Украины, чтобы Россия могла объявить о полном контроле над Донбассом, а Киеву не пришлось уступать территории, которые остаются под его контролем  Об этом пишет The Economist со ссылкой на источники, участвующие…"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-10T15:26+03:00",
+   "title": "Запуск локальной модели Qwen без цензуры",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/media1337/29096",
+     "channel": "media1337",
+     "time": "2026-11-10T15:08:33+03:00",
+     "media": "1 фото",
+     "links": [
+      "https://ollama.com/"
+     ],
+     "text": "Запускаем локальный Qwen без цензуры — в сети показали, как установить новую китайскую модель прямо на компьютер. Пригодится тем, кто устал от ограничений Claude и ChatGPT.\n\nКак установить:\n— Скачиваем ИИ-лаунчер Ollama — здесь.\n— Открываем PowerShell и запускаем установку модели одной командой:\nollama run hf.co/mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF:Q4_K_M\n\nГотово — локальная версия ИИ запущена на вашем компьютере. Модель позиционируется как вариант с минимальными ограничениями на ответы.\n\n🌒 1337"
+    },
+    {
+     "url": "https://t.me/provod/24680",
+     "channel": "provod",
+     "time": "2026-11-10T15:05:51+03:00",
+     "media": "1 фото",
+     "links": [
+      "https://ollama.com/"
+     ],
+     "text": "🔥 Ставим новый Qwen БЕЗ ЦЕНЗУРЫ — в сети рассказали, как локально поставить нового китайского монстра. Идеально, если вы словили бан от Claude или ChatGPT.\n\n• Скачиваем ИИ-лаунчер Ollama здесь;\n• Новенький Qwen, дообученный на DeepSeek, ставим всего одной командой в PowerShell:\nollama run hf.co/mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF:Q4_K_M\n\nГотово, у вас на компе стоит безбашенный ИИ, который выполнит абсолютно любые команды.\n\n⚡Провод"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-10T15:26+03:00",
+   "title": "Anthropic объявила цену выхода на IPO",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/provod/24679",
+     "channel": "provod",
+     "time": "2026-11-10T14:51:29+03:00",
+     "media": "1 фото",
+     "links": [
+      "https://www.anthropic.com/news/roadshow-launch"
+     ],
+     "text": "⚡️ Anthropic объявила цену акций перед выходом на биржу — это будет второе крупнейшее IPO в истории.\n\nСоздатели Claude выйдут на биржу Nasdaq под тикером ANT с ценой $70–78 за одну акцию. Всего будет доступно 825 млн акций, а оценка компании может достичь 1,5 триллиона.\n\nВайб-инвестиции всё ближе 😎\n\n⚡Провод"
+    },
+    {
+     "url": "https://t.me/naebnet/17873",
+     "channel": "naebnet",
+     "time": "2026-11-10T14:47:22+03:00",
+     "media": "1 фото",
+     "links": [
+      "https://www.anthropic.com/news/roadshow-launch",
+      "https://www.reuters.com/business/anthropic-ipo-raise-much-644-billion-latest-draft-prospectus-shows-2026-11-10/"
+     ],
+     "text": "IPO Anthropic станет вторым по размеру в истории: компания объявила условия выхода на биржу — выставят 825 млн акций по $70-78.\n\nРазмещение может принести до $64,4 млрд. Еще $26 млрд вложат Google, Nvidia, AMD и другие партнеры через отдельную сделку, пишет Reuters. Без нее IPO выходит меньше, чем у SpaceX с их $75 млрд.\n\nОценку компании пока не назвали. Часть инвесторов считает $1,5 трлн потолком и добивается цены пониже.\n\nДату выхода на биржу Anthropic по-прежнему не называют."
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-10T15:26+03:00",
+   "title": "Steam анонсировал симулятор попутчика Hitch Happens",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/SteamNetwork/37691",
+     "channel": "SteamNetwork",
+     "time": "2026-11-10T15:02:00+03:00",
+     "media": "1 фото, 1 видео",
+     "links": [
+      "https://store.steampowered.com/app/5398980/Hitch_Happens/?utm_source=telegram&amp;utm_campaign=rythm&amp;utm_medium=SteamCommunity&amp;utm_content=GameAnnounce&amp;utm_term=10.11.26_Image"
+     ],
+     "text": "В Steam выйдет симулятор попутчика с процедурной генерацией сюжета — Hitch Happens\n\nТы будешь колесить по миру автостопом, общаясь с водилами и влипая в различные мутки — есть система выборов и сотни уникальных историй: от романса тус в салоне до перестрелок и чернушной работы. Реиграбельность просто сумасшедшая\n\nРелиз в 2027 году, завезут русскую озвучку — самое время закинуть в желаемое"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-10T15:26+03:00",
+   "title": "По Гарри Поттеру анонсировали две новые книги",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/cybers/40167",
+     "channel": "cybers",
+     "time": "2026-11-10T14:43:17+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "⚡️По «Гарри Поттеру» выпустят две новые книги — предзаказы уже открыты.\n\nОдна книга будет посвящена Минерве Макгонагалл, а вторая — близнецам Уизли. Обе войдут в серию Pocket Potters — небольших иллюстрированных изданий с интересными фактами о персонажах вселенной.\n\nПродажи стартуют в феврале, стоимость каждой книги составит около $12 (примерно 1000 рублей).\n\n🎮КиберТопор — Подписаться"
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -1144,6 +1246,7 @@
   "https://t.me/SteamNetwork/37684",
   "https://t.me/SteamNetwork/37686",
   "https://t.me/SteamNetwork/37687",
+  "https://t.me/SteamNetwork/37691",
   "https://t.me/blokirovki_runeta/1993",
   "https://t.me/blokirovki_runeta/1994",
   "https://t.me/blokirovki_runeta/1995",
@@ -1214,6 +1317,7 @@
   "https://t.me/blokirovki_runeta/2065",
   "https://t.me/blokirovki_runeta/2066",
   "https://t.me/blokirovki_runeta/2067",
+  "https://t.me/blokirovki_runeta/2068",
   "https://t.me/cybers/40046",
   "https://t.me/cybers/40048",
   "https://t.me/cybers/40049",
@@ -1287,6 +1391,7 @@
   "https://t.me/cybers/40164",
   "https://t.me/cybers/40165",
   "https://t.me/cybers/40166",
+  "https://t.me/cybers/40167",
   "https://t.me/media1337/28982",
   "https://t.me/media1337/28983",
   "https://t.me/media1337/28984",
@@ -1367,6 +1472,7 @@
   "https://t.me/media1337/29093",
   "https://t.me/media1337/29094",
   "https://t.me/media1337/29095",
+  "https://t.me/media1337/29096",
   "https://t.me/naebnet/17819",
   "https://t.me/naebnet/17821",
   "https://t.me/naebnet/17822",
@@ -1401,6 +1507,7 @@
   "https://t.me/naebnet/17867",
   "https://t.me/naebnet/17868",
   "https://t.me/naebnet/17869",
+  "https://t.me/naebnet/17873",
   "https://t.me/petrovtel/83885",
   "https://t.me/petrovtel/83886",
   "https://t.me/petrovtel/83887",
@@ -1543,6 +1650,7 @@
   "https://t.me/petrovtel/84152",
   "https://t.me/petrovtel/84153",
   "https://t.me/petrovtel/84154",
+  "https://t.me/petrovtel/84155",
   "https://t.me/provod/24474",
   "https://t.me/provod/24475",
   "https://t.me/provod/24476",
@@ -1677,6 +1785,8 @@
   "https://t.me/provod/24676",
   "https://t.me/provod/24677",
   "https://t.me/provod/24678",
+  "https://t.me/provod/24679",
+  "https://t.me/provod/24680",
   "https://t.me/retra/36781",
   "https://t.me/retra/36787",
   "https://t.me/retra/36788",
@@ -1742,5 +1852,5 @@
   "https://t.me/retra/36903",
   "https://t.me/retra/36915"
  ],
- "updated": "2026-11-10T14:25+03:00"
+ "updated": "2026-11-10T15:26+03:00"
 }
