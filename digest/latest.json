@@ -1,72 +1,6 @@
 {
  "topics": [
   {
-   "first_seen": "2026-11-11T09:33+03:00",
-   "title": "Claude Code превратили в ИИ-репетитора по методу Сократа",
-   "games": false,
-   "posts": [
-    {
-     "url": "https://t.me/media1337/29108",
-     "channel": "media1337",
-     "time": "2026-11-11T09:03:01+03:00",
-     "media": "1 фото",
-     "links": [
-      "https://github.com/janestreet/agent_skills"
-     ],
-     "text": "Claude Code превратили в ИИ-репетитора по методу Сократа — трейдинговая компания Jane Street выпустила специальный скилл для обучения.\n\nЧто умеет:\n\n— Оценивает начальные знания и отслеживает прогресс;\n— Вместо готовых ответов задаёт наводящие вопросы;\n— Не поддакивает и не хвалит за каждую мелочь, а помогает самостоятельно разобраться в теме;\n— После изучения материала устраивает проверку знаний.\n\nПробуем — здесь.\n\n🌒 1337"
-    }
-   ]
-  },
-  {
-   "first_seen": "2026-11-11T09:33+03:00",
-   "title": "В России будут развивать проводное радио",
-   "games": false,
-   "posts": [
-    {
-     "url": "https://t.me/blokirovki_runeta/2072",
-     "channel": "blokirovki_runeta",
-     "time": "2026-11-11T08:06:45+03:00",
-     "media": "1 фото",
-     "links": [],
-     "text": "📻 В России будут развивать проводное радио.\n\nЭто прямо указано в стратегии развития связи Минцифры.\n\nВ документе подчеркивается, что радио удобно в использовании, работает независимо от электропитания, мобильной связи и интернета, а также полностью построено на отечественном оборудовании.\n\nВ общем, идеальный вариант 👀\n\n@blokirovki_runeta"
-    }
-   ]
-  },
-  {
-   "first_seen": "2026-11-11T09:33+03:00",
-   "title": "Вышел скилл Claude Code для визуализации данных в интерактивные графики",
-   "games": false,
-   "posts": [
-    {
-     "url": "https://t.me/provod/24691",
-     "channel": "provod",
-     "time": "2026-11-11T08:47:06+03:00",
-     "media": "1 видео",
-     "links": [
-      "https://april-zhu.com/minicharts"
-     ],
-     "text": "🔥 Превращаем любые данные в красивые интерактивные графики — вышел крутой скилл для Claude Code, который визуализирует диаграммы и схемы в нарисованном от руки стиле.\n\nНа выбор 54 типа визуализаций для любых задач. Работает в два клика: просто загружаем Excel или CSV-файл, а ИИ сам подберёт нужный визуал.\n\nСтавим одной командой:\nmkdir -p ~/.claude/skills && curl -fsSL https://april-zhu.com/minicharts/minicharts.tar.gz | tar -xz -C ~/.claude/skills \n\nПробуем — тут.\n\n⚡️ Провод"
-    }
-   ]
-  },
-  {
-   "first_seen": "2026-11-11T09:33+03:00",
-   "title": "Вышел ИИ-мод SimsGPT для общения с NPC в Sims 4",
-   "games": true,
-   "posts": [
-    {
-     "url": "https://t.me/SteamNetwork/37709",
-     "channel": "SteamNetwork",
-     "time": "2026-11-11T09:12:26+03:00",
-     "media": "1 видео",
-     "links": [
-      "https://www.nexusmods.com/thesims4/mods/7052"
-     ],
-     "text": "Теперь с любым NPC в Sims 4 можно поговорить как с живым человеком — для игры выпустили ИИ-мод SimsGPT\n\nНейронка отвечает за персонажей, запоминает разговоры и учитывает прошлые события:\n😥Переписка с симами по телефону\n😥Генерация картинок по описанию\n😥Память о важных событиях и карьерных достижениях\n😥Уникальные диалоги в звонках и сюжетных событиях\n\nЗабираем мод тут"
-    }
-   ]
-  },
-  {
    "first_seen": "2026-11-11T10:51+03:00",
    "title": "GTA VI заработала миллиард долларов до релиза",
    "games": true,
@@ -935,6 +869,70 @@
      "text": "Лариса Долина временно прекращает давать концерты \n\nПевица призналась, что скандалы последних месяцев сильно ударили по её творчеству.\n\nПо словам артистки, происходящие события «подрезали ей крылья», которые теперь нужно отремонтировать. Долина попросила поклонников на некоторое время её отпустить.\n\nКК 🐀"
     }
    ]
+  },
+  {
+   "first_seen": "2026-11-12T09:35+03:00",
+   "title": "Совет директоров Nvidia готовится уволить Дженсена Хуанга из-за двух любовниц, одна из которых подозревается в шпионаже на Китай",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/petrovtel/84195",
+     "channel": "petrovtel",
+     "time": "2026-11-12T09:13:01+03:00",
+     "media": "3 фото",
+     "links": [],
+     "text": "Глава Nvidia изменил жене с китайской шпионкой — теперь скандалом заинтересовался Конгресс США  Любовницей Дженсена Хуанга оказалась Элис Хуан, бывшая руководительница Megaspeed. Её подозревают в работе на китайскую разведку и помощи в обходе американских…"
+    },
+    {
+     "url": "https://t.me/blokirovki_runeta/2081",
+     "channel": "blokirovki_runeta",
+     "time": "2026-11-12T09:06:26+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "💗 Любовь зла.\n\nУ главы Nvidia Дженсена Хуанга нашли еще одну любовницу из штата сотрудников, помимо той «китайской шпионки».\n\nАкции компании летят вниз, а совет директоров хочет уволить Хуанга из его же компании. \n\nЗа последний месяц акции Nvidia рухнули на 30%.\n\n@blokirovki_runeta"
+    },
+    {
+     "url": "https://t.me/provod/24722",
+     "channel": "provod",
+     "time": "2026-11-12T07:52:42+03:00",
+     "media": "1 фото",
+     "links": [
+      "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+     ],
+     "text": "⚡️⚡️ Хуанг — ВСЁ! Совет директоров NVIDIA готовится отправить Куртку в отставку, пишет Wall Street Journal.\n\nЗаседание о дальнейшей судьбе Хуанга пройдёт сегодня, а совет директоров уже начал искать замену.\n\nТы наконец-то соберёшь комп 😁\n\n⚡️ Провод"
+    },
+    {
+     "url": "https://t.me/SteamNetwork/37730",
+     "channel": "SteamNetwork",
+     "time": "2026-11-12T08:56:56+03:00",
+     "media": "2 фото",
+     "links": [],
+     "text": "⚡️Дженсена Хуанга собираются уволить из собственной NVIDIA — всё из-за двух любовниц\n\nПо данным The Wall Street Journal, у главы компании вскрылись сразу две внебрачные связи. Причём одна из любовниц — китайская шпионка\n\nТеперь совет директоров разбирается в скандалах и уже ищет замену Хуангу"
+    },
+    {
+     "url": "https://t.me/naebnet/17898",
+     "channel": "naebnet",
+     "time": "2026-11-12T08:31:45+03:00",
+     "media": "2 фото",
+     "links": [],
+     "text": "Интервью Дженсена Хуанга теперь воспринимаются иначе: в твиттере весь день смеются, что ему всегда нравились «китайские модели».  Сегодня глава Nvidia признался в измене жене с потенциальной шпионкой из Китая. Против него уже начали внутреннее расследование.…"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-12T09:35+03:00",
+   "title": "Resident Evil Requiem стала игрой года на церемонии Golden Joystick Awards 2026",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/NewGameProject/33663",
+     "channel": "NewGameProject",
+     "time": "2026-11-12T09:04:00+03:00",
+     "media": "4 фото",
+     "links": [],
+     "text": "‼️Resident Evil Requiem стала «лучшей игрой года» на Golden Joystick Awards 2026: это вторая по значимости церемония после The Game Awards\n\nВот победители в остальных категориях:\n▫️Resident Evil: Requiem — лучшая консольная игра\n▫️Crimson Desert — лучшая игра на ПК\n▫️Valheim — лучшая инди-игра\n▫️Control Resonant — лучший визуальный дизайн\n▫️Minecraft — лучшая продолжающаяся игра на ПК и консолях\n▫️«Ведьмак 3» — лучший ремейк или ремастер\n▫️Dispatch — лучший саундтрек и лучшее повествование\n▫️«Ведьмак 4» — самая ожидаемая игра \n▫️Balatro — лучшая продолжающаяся игра на смартфонах\n▫️Subnautica 2"
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -991,6 +989,7 @@
   "https://t.me/NewGameProject/33657",
   "https://t.me/NewGameProject/33658",
   "https://t.me/NewGameProject/33659",
+  "https://t.me/NewGameProject/33663",
   "https://t.me/SteamNetwork/37465",
   "https://t.me/SteamNetwork/37467",
   "https://t.me/SteamNetwork/37468",
@@ -1139,6 +1138,7 @@
   "https://t.me/SteamNetwork/37725",
   "https://t.me/SteamNetwork/37728",
   "https://t.me/SteamNetwork/37729",
+  "https://t.me/SteamNetwork/37730",
   "https://t.me/blokirovki_runeta/1993",
   "https://t.me/blokirovki_runeta/1994",
   "https://t.me/blokirovki_runeta/1995",
@@ -1221,6 +1221,7 @@
   "https://t.me/blokirovki_runeta/2078",
   "https://t.me/blokirovki_runeta/2079",
   "https://t.me/blokirovki_runeta/2080",
+  "https://t.me/blokirovki_runeta/2081",
   "https://t.me/cybers/40046",
   "https://t.me/cybers/40048",
   "https://t.me/cybers/40049",
@@ -1409,6 +1410,7 @@
   "https://t.me/media1337/29114",
   "https://t.me/media1337/29115",
   "https://t.me/media1337/29118",
+  "https://t.me/media1337/29120",
   "https://t.me/naebnet/17819",
   "https://t.me/naebnet/17821",
   "https://t.me/naebnet/17822",
@@ -1463,6 +1465,7 @@
   "https://t.me/naebnet/17895",
   "https://t.me/naebnet/17896",
   "https://t.me/naebnet/17897",
+  "https://t.me/naebnet/17898",
   "https://t.me/petrovtel/83885",
   "https://t.me/petrovtel/83886",
   "https://t.me/petrovtel/83887",
@@ -1628,6 +1631,7 @@
   "https://t.me/petrovtel/84189",
   "https://t.me/petrovtel/84190",
   "https://t.me/petrovtel/84192",
+  "https://t.me/petrovtel/84195",
   "https://t.me/provod/24474",
   "https://t.me/provod/24475",
   "https://t.me/provod/24476",
@@ -1793,6 +1797,7 @@
   "https://t.me/provod/24717",
   "https://t.me/provod/24718",
   "https://t.me/provod/24719",
+  "https://t.me/provod/24722",
   "https://t.me/retra/36781",
   "https://t.me/retra/36787",
   "https://t.me/retra/36788",
@@ -1870,5 +1875,5 @@
   "https://t.me/retra/36930",
   "https://t.me/retra/36932"
  ],
- "updated": "2026-11-12T00:04+03:00"
+ "updated": "2026-11-12T09:35+03:00"
 }
