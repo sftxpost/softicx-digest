@@ -1127,6 +1127,90 @@
      "text": "В Minecraft сняли целый хоррор-сериал — вышел тизер Mikey's Magical Mayhem.\n\nПроект создал блогер ThatMob. Он специализируется на короткометражках внутри игры.\n\nЗаценить все работы парня можно на YouTube. Это абсолютное кино."
     }
    ]
+  },
+  {
+   "first_seen": "2026-11-12T20:30+03:00",
+   "title": "Google выпустила новую модель Gemini 4 Hydrogen",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/provod/24755",
+     "channel": "provod",
+     "time": "2026-11-12T20:28:05+03:00",
+     "media": "1 фото",
+     "links": [
+      "https://antigravity.google/"
+     ],
+     "text": "⚡️Google дропнула Gemini 4 Hydrogen (Flash) — новую модель начали раскатывать в Antigravity.\n\n• По словам тестировщиков, модель может выдавать до 300–500 токенов в секунду;\n• За минуты собирает целые сайты, приложения и 3D-сцены;\n• Цена: $1,50 за миллион входных и $7,50 за миллион выходных токенов.\n\nЧтобы попробовать, нужно обновить Antigravity до последней версии.\n\nТестим тут.\n\n⚡Провод"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-12T20:30+03:00",
+   "title": "Появился агрегатор кооперативных модов для одиночных игр",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/SteamNetwork/37743",
+     "channel": "SteamNetwork",
+     "time": "2026-11-12T20:03:47+03:00",
+     "media": "1 фото",
+     "links": [
+      "https://coopanything.app/"
+     ],
+     "text": "Все одиночные игры, куда добавили кооп, собрали в одном месте — появился удобный агрегатор коопных модов\n\nНа сайте собрали более 300 одиночных игр с коопными модами. Для каждой игры указан статус поддержки, возможности коопа, ссылки и гайды по установке\n\nТакже у проекта есть отдельный лаунчер для локального коопа до 8 игроков — налетаем"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-12T20:30+03:00",
+   "title": "В Euro Truck Simulator 2 вышло DLC с автобусами",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/SteamNetwork/37744",
+     "channel": "SteamNetwork",
+     "time": "2026-11-12T20:21:16+03:00",
+     "media": "3 фото, 1 видео",
+     "links": [
+      "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/"
+     ],
+     "text": "⚡️В Euro Truck Simulator 2 завезли автобусы — вышло новое масштабное DLC\n\nТеперь можно развозить пассажиров по всей Европе — от крупных городов до маленьких деревень. Придётся соблюдать расписание, останавливаться на остановках и следить за комфортом пассажиров\n\nА саму игру прямо сейчас отдают с жирной скидкой 75% в Steam"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-12T20:30+03:00",
+   "title": "Halo: Campaign Evolved получит бесплатный кооперативный PvE-режим",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/NewGameProject/33677",
+     "channel": "NewGameProject",
+     "time": "2026-11-12T20:08:39+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "Внезапно — Halo: Campaign Evolved получит кооперативный PvE-режим до конца этого года\n\nПричём оно будет бесплатным для всех владельцев игры"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-12T20:30+03:00",
+   "title": "ИИ от OpenAI решил часть задачи тысячелетия по квантовой теории Янга-Миллса",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/naebnet/17915",
+     "channel": "naebnet",
+     "time": "2026-11-12T20:01:02+03:00",
+     "media": "1 фото",
+     "links": [
+      "https://www.scientificamerican.com/article/openais-shepherds-affirm-blockbuster-physics-result/",
+      "https://github.com/yang-mills-group/YM"
+     ],
+     "text": "Модель OpenAI решила часть еще одной «задачи тысячелетия» на $1 млн: физики подтвердили доказательство нейронки о квантовой теории Янга — Миллса. На ней держится Стандартная модель физики частиц.\n\nЭта модель точно предсказывает результаты экспериментов в коллайдерах. Больше 50 лет никто не мог доказать, что ее основа не противоречит математике. ИИ это сделал, но самая сложная часть задачи пока не решена.\n\n10 ноября ученые выложили код доказательства. Проблема в том, что до конца разобраться в рассуждениях машины пока никто не может. Проверять верность решения тоже помогает модель OpenAI."
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -1193,6 +1277,7 @@
   "https://t.me/NewGameProject/33673",
   "https://t.me/NewGameProject/33674",
   "https://t.me/NewGameProject/33676",
+  "https://t.me/NewGameProject/33677",
   "https://t.me/SteamNetwork/37465",
   "https://t.me/SteamNetwork/37467",
   "https://t.me/SteamNetwork/37468",
@@ -1353,6 +1438,8 @@
   "https://t.me/SteamNetwork/37740",
   "https://t.me/SteamNetwork/37741",
   "https://t.me/SteamNetwork/37742",
+  "https://t.me/SteamNetwork/37743",
+  "https://t.me/SteamNetwork/37744",
   "https://t.me/blokirovki_runeta/1993",
   "https://t.me/blokirovki_runeta/1994",
   "https://t.me/blokirovki_runeta/1995",
@@ -1441,6 +1528,7 @@
   "https://t.me/blokirovki_runeta/2084",
   "https://t.me/blokirovki_runeta/2085",
   "https://t.me/blokirovki_runeta/2086",
+  "https://t.me/blokirovki_runeta/2087",
   "https://t.me/cybers/40046",
   "https://t.me/cybers/40048",
   "https://t.me/cybers/40049",
@@ -1547,6 +1635,7 @@
   "https://t.me/cybers/40212",
   "https://t.me/cybers/40213",
   "https://t.me/cybers/40214",
+  "https://t.me/cybers/40216",
   "https://t.me/media1337/28982",
   "https://t.me/media1337/28983",
   "https://t.me/media1337/28984",
@@ -1656,6 +1745,7 @@
   "https://t.me/media1337/29130",
   "https://t.me/media1337/29131",
   "https://t.me/media1337/29132",
+  "https://t.me/media1337/29135",
   "https://t.me/naebnet/17819",
   "https://t.me/naebnet/17821",
   "https://t.me/naebnet/17822",
@@ -1725,6 +1815,8 @@
   "https://t.me/naebnet/17911",
   "https://t.me/naebnet/17912",
   "https://t.me/naebnet/17913",
+  "https://t.me/naebnet/17914",
+  "https://t.me/naebnet/17915",
   "https://t.me/petrovtel/83885",
   "https://t.me/petrovtel/83886",
   "https://t.me/petrovtel/83887",
@@ -2091,6 +2183,8 @@
   "https://t.me/provod/24751",
   "https://t.me/provod/24752",
   "https://t.me/provod/24753",
+  "https://t.me/provod/24754",
+  "https://t.me/provod/24755",
   "https://t.me/retra/36781",
   "https://t.me/retra/36787",
   "https://t.me/retra/36788",
@@ -2177,7 +2271,8 @@
   "https://t.me/retra/36951",
   "https://t.me/retra/36952",
   "https://t.me/retra/36962",
-  "https://t.me/retra/36963"
+  "https://t.me/retra/36963",
+  "https://t.me/retra/36964"
  ],
- "updated": "2026-11-12T19:37+03:00"
+ "updated": "2026-11-12T20:30+03:00"
 }
