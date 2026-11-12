@@ -1172,6 +1172,88 @@
      "text": "⚡️Steam умер в России и по всему миру.\n\nГабен опять забыл оплатить сервера.\n\n🎮КиберТопор — Подписаться"
     }
    ]
+  },
+  {
+   "first_seen": "2026-11-12T22:32+03:00",
+   "title": "Массовый сбой интернета: не работают десятки сервисов, включая Steam, Claude, X, Xbox и Microsoft, причины неизвестны",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/petrovtel/84220",
+     "channel": "petrovtel",
+     "time": "2026-11-12T22:27:02+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "Массовые сбои в работе интернета\n\nПользователи сообщают о неполадках сразу у десятков популярных сервисов, включая Steam, Claude, X (Twitter), Xbox и Microsoft.\n\nКК 🐀"
+    },
+    {
+     "url": "https://t.me/provod/24761",
+     "channel": "provod",
+     "time": "2026-11-12T22:21:19+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "⚡️ ВЕСЬ интернет ЛЁГ — сбои у Claude, Steam, Xbox, Twitter, Microsoft и у десятков других сервисов.\n\nПричины неизвестны.\n\n⚡Провод"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-12T22:32+03:00",
+   "title": "Главу AMD Лизу Су признали руководителем года по версии Yahoo Finance в день отставки Дженсена Хуанга, они оказались двоюродными родственниками",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/retra/36966",
+     "channel": "retra",
+     "time": "2026-11-12T22:11:14+03:00",
+     "media": "1 фото, 1 видео",
+     "links": [],
+     "text": "Главу AMD Лизу Су признали руководителем года по версии Yahoo Finance — в один день с отставкой Дженсена Хуанга в Nvidia.\n\nИ так сложилось, что Су и Хуанг не только возглавляли две вечно конкурирующие компании, но и являются... двоюродными родственниками.\n\nВеликолепный тайминг\nr/#technology"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-12T22:32+03:00",
+   "title": "В Steam до 16 ноября стартовали бесплатные выходные кооперативного шутера Deep Rock Galactic: Rogue Core",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/SteamNetwork/37749",
+     "channel": "SteamNetwork",
+     "time": "2026-11-12T21:51:45+03:00",
+     "media": "4 фото",
+     "links": [
+      "https://store.steampowered.com/app/2605790/Deep_Rock_Galactic_Rogue_Core/"
+     ],
+     "text": "🎉🎉🎉🎉В Deep Rock Galactic: Rogue Core стартовали бесплатные выходные в Steam до 16 ноября\n\nЭто коопный роглайт-шутер для 1–4 игроков с разными классами, толпами монстров и прокачкой по ходу миссий\n\nСобираем пати дворфов и залетаем"
+    },
+    {
+     "url": "https://t.me/cybers/40218",
+     "channel": "cybers",
+     "time": "2026-11-12T21:58:21+03:00",
+     "media": "4 фото",
+     "links": [
+      "https://store.steampowered.com/app/2605790/Deep_Rock_Galactic_Rogue_Core/"
+     ],
+     "text": "⚡️В Deep Rock Galactic: Rogue Core стартовали бесплатные выходные — коопный шутер можно опробовать в Steam до 16 ноября.\n\nИгрокам предстоит собрать команду до четырёх дворфов, выбрать классы и отправиться в подземелья, забитые монстрами. По ходу вылазок можно прокачивать персонажей и получать новые способности.\n\nСобираемся со своими дворфами — здесь.\n\n🎮КиберТопор — Подписаться"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-12T22:32+03:00",
+   "title": "Rockstar выпустила новые тизеры GTA VI с фотореалистичной графикой, в игре, судя по всему, можно будет снимать сторис",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/naebnet/17917",
+     "channel": "naebnet",
+     "time": "2026-11-12T22:16:39+03:00",
+     "media": "2 видео",
+     "links": [
+      "https://x.com/ONLYinDADE/status/2120920972715078104?a=hBHxg4l0x3NTMwbqZzM&amp;s=20"
+     ],
+     "text": "GTA сделали слишком фотореалистичной: Rockstar выпустили пару новых тизеров игры.\n\nРолики вышли в соцсетях местного издания из Майами. Сначала многие даже не поняли, что это кадры из GTA VI.\n\nКажется, в самой игре можно будет снимать сторис."
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -1403,6 +1485,7 @@
   "https://t.me/SteamNetwork/37743",
   "https://t.me/SteamNetwork/37744",
   "https://t.me/SteamNetwork/37748",
+  "https://t.me/SteamNetwork/37749",
   "https://t.me/blokirovki_runeta/1993",
   "https://t.me/blokirovki_runeta/1994",
   "https://t.me/blokirovki_runeta/1995",
@@ -1601,6 +1684,7 @@
   "https://t.me/cybers/40214",
   "https://t.me/cybers/40216",
   "https://t.me/cybers/40217",
+  "https://t.me/cybers/40218",
   "https://t.me/media1337/28982",
   "https://t.me/media1337/28983",
   "https://t.me/media1337/28984",
@@ -1784,6 +1868,7 @@
   "https://t.me/naebnet/17914",
   "https://t.me/naebnet/17915",
   "https://t.me/naebnet/17916",
+  "https://t.me/naebnet/17917",
   "https://t.me/petrovtel/83885",
   "https://t.me/petrovtel/83886",
   "https://t.me/petrovtel/83887",
@@ -1963,6 +2048,8 @@
   "https://t.me/petrovtel/84216",
   "https://t.me/petrovtel/84217",
   "https://t.me/petrovtel/84218",
+  "https://t.me/petrovtel/84219",
+  "https://t.me/petrovtel/84220",
   "https://t.me/provod/24474",
   "https://t.me/provod/24475",
   "https://t.me/provod/24476",
@@ -2156,6 +2243,8 @@
   "https://t.me/provod/24755",
   "https://t.me/provod/24756",
   "https://t.me/provod/24759",
+  "https://t.me/provod/24760",
+  "https://t.me/provod/24761",
   "https://t.me/retra/36781",
   "https://t.me/retra/36787",
   "https://t.me/retra/36788",
@@ -2243,7 +2332,9 @@
   "https://t.me/retra/36952",
   "https://t.me/retra/36962",
   "https://t.me/retra/36963",
-  "https://t.me/retra/36964"
+  "https://t.me/retra/36964",
+  "https://t.me/retra/36965",
+  "https://t.me/retra/36966"
  ],
- "updated": "2026-11-12T21:26+03:00"
+ "updated": "2026-11-12T22:32+03:00"
 }
