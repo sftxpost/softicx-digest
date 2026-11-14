@@ -943,6 +943,38 @@
      "text": "⚡️В Battlefield 6 теперь можно поиграть бесплатно, снова — халяву завезли в честь выхода обновы с Лас-Вегасом\n\nМожно погонять на двух новых картах и заценить три режима, в том числе ивент с ограблением казино. Успеваем поиграть до 16 ноября"
     }
    ]
+  },
+  {
+   "first_seen": "2026-11-14T09:27+03:00",
+   "title": "Защита Лерчек попросила ФСИН разрешить выезд в Китай для лечения от рака",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/petrovtel/84239",
+     "channel": "petrovtel",
+     "time": "2026-11-14T09:23:01+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "Защита Лерчек официально просит ФСИН разрешить ей выезд в Китай для лечения от рака, пишут РИА  КК 🐀"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-14T09:27+03:00",
+   "title": "Номинантов The Game Awards 2026 объявят 17 ноября, церемония состоится 11 декабря",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/NewGameProject/33689",
+     "channel": "NewGameProject",
+     "time": "2026-11-14T09:03:05+03:00",
+     "media": "1 фото",
+     "links": [
+      "https://x.com/thegameawards/status/2121303846962225195"
+     ],
+     "text": "Номинантов на The Game Awards 2026 официально объявят уже 17 ноября в 20:00 по МСК — в том числе и на «Игру года»\n\nСама церемония начнется 11 декабря примерно в 03:30 по МСК, а также, помимо награждений, на ней будут анонсированы многие крупные игры"
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -1021,6 +1053,7 @@
   "https://t.me/NewGameProject/33686",
   "https://t.me/NewGameProject/33687",
   "https://t.me/NewGameProject/33688",
+  "https://t.me/NewGameProject/33689",
   "https://t.me/SteamNetwork/37465",
   "https://t.me/SteamNetwork/37467",
   "https://t.me/SteamNetwork/37468",
@@ -1202,6 +1235,7 @@
   "https://t.me/SteamNetwork/37775",
   "https://t.me/SteamNetwork/37777",
   "https://t.me/SteamNetwork/37780",
+  "https://t.me/SteamNetwork/37781",
   "https://t.me/blokirovki_runeta/1993",
   "https://t.me/blokirovki_runeta/1994",
   "https://t.me/blokirovki_runeta/1995",
@@ -1544,6 +1578,7 @@
   "https://t.me/media1337/29149",
   "https://t.me/media1337/29150",
   "https://t.me/media1337/29151",
+  "https://t.me/media1337/29155",
   "https://t.me/naebnet/17819",
   "https://t.me/naebnet/17821",
   "https://t.me/naebnet/17822",
@@ -1825,6 +1860,7 @@
   "https://t.me/petrovtel/84235",
   "https://t.me/petrovtel/84236",
   "https://t.me/petrovtel/84237",
+  "https://t.me/petrovtel/84239",
   "https://t.me/provod/24474",
   "https://t.me/provod/24475",
   "https://t.me/provod/24476",
@@ -2044,6 +2080,7 @@
   "https://t.me/provod/24784",
   "https://t.me/provod/24787",
   "https://t.me/provod/24788",
+  "https://t.me/provod/24792",
   "https://t.me/retra/36781",
   "https://t.me/retra/36787",
   "https://t.me/retra/36788",
@@ -2143,5 +2180,5 @@
   "https://t.me/retra/36975",
   "https://t.me/retra/36976"
  ],
- "updated": "2026-11-13T23:28+03:00"
+ "updated": "2026-11-14T09:27+03:00"
 }
