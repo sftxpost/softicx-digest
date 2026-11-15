@@ -458,6 +458,36 @@
      "text": "HBO показала новый отрывок из сериала «Гарри Поттер» — в ролике можно увидеть праздничный пир в Хогвартсе.\n\nПремьера состоится уже 25 декабря.\n\n🌒 1337"
     }
    ]
+  },
+  {
+   "first_seen": "2026-11-15T12:22+03:00",
+   "title": "Верховный суд РФ разрешил отменять блокировки, если владельца сайта не приглашали на заседание",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/blokirovki_runeta/2101",
+     "channel": "blokirovki_runeta",
+     "time": "2026-11-15T11:31:19+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "🧑‍⚖️ Верховный суд РФ разрешил отменять решения о блокировке, принятые без участия их владельцев. \n\nЕсли суд запретил информацию на сайте, но не пригласил на заседание владельца ресурса или администратора домена, такое решение можно отменить.\n\nНу хоть какие-то хорошие новости. \n\n@blokirovki_runeta"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-15T12:22+03:00",
+   "title": "На фермах во Вьетнама туристам предлагают массаж от уток, склёвывающих зерно с тела",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/retra/37004",
+     "channel": "retra",
+     "time": "2026-11-15T12:00:02+03:00",
+     "media": "1 видео",
+     "links": [],
+     "text": "На фермах во Вьетнаме утки вам могут сделать массаж: на человека насыпают зёрна, а стая птиц окружает его и склёвывает корм прямо с тела. Судя по отзывам, ощущения незабываемые\n\nr/#funny"
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -546,6 +576,7 @@
   "https://t.me/NewGameProject/33701",
   "https://t.me/NewGameProject/33702",
   "https://t.me/NewGameProject/33703",
+  "https://t.me/NewGameProject/33704",
   "https://t.me/SteamNetwork/37465",
   "https://t.me/SteamNetwork/37467",
   "https://t.me/SteamNetwork/37468",
@@ -830,6 +861,7 @@
   "https://t.me/blokirovki_runeta/2098",
   "https://t.me/blokirovki_runeta/2099",
   "https://t.me/blokirovki_runeta/2100",
+  "https://t.me/blokirovki_runeta/2101",
   "https://t.me/cybers/40046",
   "https://t.me/cybers/40048",
   "https://t.me/cybers/40049",
@@ -1388,6 +1420,7 @@
   "https://t.me/petrovtel/84251",
   "https://t.me/petrovtel/84252",
   "https://t.me/petrovtel/84255",
+  "https://t.me/petrovtel/84263",
   "https://t.me/provod/24474",
   "https://t.me/provod/24475",
   "https://t.me/provod/24476",
@@ -1725,7 +1758,8 @@
   "https://t.me/retra/36988",
   "https://t.me/retra/36991",
   "https://t.me/retra/36995",
-  "https://t.me/retra/37001"
+  "https://t.me/retra/37001",
+  "https://t.me/retra/37004"
  ],
- "updated": "2026-11-15T10:42+03:00"
+ "updated": "2026-11-15T12:22+03:00"
 }
