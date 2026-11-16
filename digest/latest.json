@@ -544,6 +544,55 @@
      "text": "Появились предварительные оценки GTA VI: игра набрала в среднем 4,87/5 баллов на PS5. Это ставит ее в топ рейтинга PS Store за все время, хотя пока там всего 174 оценки.\n\nСудя по всему, их уже оставляют обзорщики, которым раздали коды несколько недель назад — оценки нашли в базе данных площадки.\n\nПолноценные обзоры должны появиться 18 ноября. Ждем."
     }
    ]
+  },
+  {
+   "first_seen": "2026-11-16T22:35+03:00",
+   "title": "У крупных банков США массовые сбои: не работают Bank of America, JPMorgan Chase, Wells Fargo и U.S. Bancorp, возможно падение Zelle",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/media1337/29200",
+     "channel": "media1337",
+     "time": "2026-11-16T22:31:37+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "Сразу четыре крупных банка США столкнулись со сбоями — Bank of America, Wells Fargo, JPMorgan Chase и U.S. Bancorp.\n\nДо этого в соцсетях разгоняли слух о «цифровом апокалипсисе» 17 ноября. По этой версии, в тот день должны обнулиться банковские счета и отключиться интернет.\n\n🌒 1337"
+    },
+    {
+     "url": "https://t.me/provod/24839",
+     "channel": "provod",
+     "time": "2026-11-16T21:49:34+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "⚡️Цифровой апокалипсис НАЧАЛСЯ — американские банки легли намертво. У клиентов Chase, Bank of America, Wells Fargo и U.S. Bank сегодня отвалились сервисы.\n\nЧто известно:\n• Сбои начались около 10 утра по Нью-Йорку, и жалоб становилось только больше;\n• Только на Chase за час пожаловались больше 2000 человек: не пускает в онлайн-банк и приложение, не видно баланса и операций;\n• Причину банки пока не называют, Chase молчит.\n\nИ всё это за день до 17 ноября. Именно на эту дату вирусная теория заговора назначила конец света: хакеры якобы отключат весь мир от интернета на три месяца и обнулят банковск"
+    },
+    {
+     "url": "https://t.me/naebnet/17969",
+     "channel": "naebnet",
+     "time": "2026-11-16T21:37:04+03:00",
+     "media": "1 фото",
+     "links": [
+      "https://downdetector.com/",
+      "https://x.com/tQuietEngineer/status/2121851925750747281?a=W7ijF6uLPF98mU3e4x0&amp;s=20"
+     ],
+     "text": "У крупных банков США одновременно начался сбой: о проблемах пишут клиенты Bank of America, JPMorgan, Wells Fargo и других компаний.\n\nЧисло репортов разнится от нескольких тысяч до пары сотен. Вместе с банками могла упасть платежная система Zelle. А еще снова появились жалобы на Microsoft. Но масштабного сбоя пока не фиксируют.\n\nНа днях в твиттере начали форсить мем про цифровой апокалипсис — его назначили на 17 ноября. Началось?"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-16T22:35+03:00",
+   "title": "Анонсировали League of Legends: New Dawn — полноценный перезапуск легендарной MOBA с новым клиентом и обновлённым визуалом",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/NewGameProject/33729",
+     "channel": "NewGameProject",
+     "time": "2026-11-16T21:52:53+03:00",
+     "media": "1 видео",
+     "links": [],
+     "text": "⚡️Анонсировали League of Legends: New Dawn — это полноценный перезапуск легендарной мобы  Разрабы завезут адекватный клиент, встряхнут геймплей и глобально обновят визуал чемпионов, миньонов и всего Ущелья призывателей  Геймплей покажут в январе, а релиз —…"
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -646,6 +695,7 @@
   "https://t.me/NewGameProject/33724",
   "https://t.me/NewGameProject/33726",
   "https://t.me/NewGameProject/33728",
+  "https://t.me/NewGameProject/33729",
   "https://t.me/SteamNetwork/37465",
   "https://t.me/SteamNetwork/37467",
   "https://t.me/SteamNetwork/37468",
@@ -941,6 +991,7 @@
   "https://t.me/blokirovki_runeta/2110",
   "https://t.me/blokirovki_runeta/2112",
   "https://t.me/blokirovki_runeta/2114",
+  "https://t.me/blokirovki_runeta/2115",
   "https://t.me/cybers/40046",
   "https://t.me/cybers/40048",
   "https://t.me/cybers/40049",
@@ -1211,6 +1262,7 @@
   "https://t.me/media1337/29192",
   "https://t.me/media1337/29198",
   "https://t.me/media1337/29199",
+  "https://t.me/media1337/29200",
   "https://t.me/naebnet/17819",
   "https://t.me/naebnet/17821",
   "https://t.me/naebnet/17822",
@@ -1313,6 +1365,7 @@
   "https://t.me/naebnet/17961",
   "https://t.me/naebnet/17964",
   "https://t.me/naebnet/17968",
+  "https://t.me/naebnet/17969",
   "https://t.me/petrovtel/83885",
   "https://t.me/petrovtel/83886",
   "https://t.me/petrovtel/83887",
@@ -1543,6 +1596,7 @@
   "https://t.me/petrovtel/84300",
   "https://t.me/petrovtel/84301",
   "https://t.me/petrovtel/84302",
+  "https://t.me/petrovtel/84303",
   "https://t.me/provod/24474",
   "https://t.me/provod/24475",
   "https://t.me/provod/24476",
@@ -1789,6 +1843,7 @@
   "https://t.me/provod/24836",
   "https://t.me/provod/24837",
   "https://t.me/provod/24838",
+  "https://t.me/provod/24839",
   "https://t.me/retra/36781",
   "https://t.me/retra/36787",
   "https://t.me/retra/36788",
@@ -1905,7 +1960,8 @@
   "https://t.me/retra/37010",
   "https://t.me/retra/37015",
   "https://t.me/retra/37017",
-  "https://t.me/retra/37018"
+  "https://t.me/retra/37018",
+  "https://t.me/retra/37019"
  ],
- "updated": "2026-11-16T21:27+03:00"
+ "updated": "2026-11-16T22:35+03:00"
 }
