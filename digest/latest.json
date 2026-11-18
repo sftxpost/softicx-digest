@@ -1,21 +1,6 @@
 {
  "topics": [
   {
-   "first_seen": "2026-11-17T22:39+03:00",
-   "title": "В CS2 вернут снежную версию карты Cobblestone, дата выхода пока неизвестна",
-   "games": true,
-   "posts": [
-    {
-     "url": "https://t.me/provod/24868",
-     "channel": "provod",
-     "time": "2026-11-17T21:31:27+03:00",
-     "media": "1 видео",
-     "links": [],
-     "text": "⚡️ В CS2 вернут снежную карту Cobblestone — даты выхода пока нет.\n\nКсеры сегодня в говно.\n\n⚡Провод"
-    }
-   ]
-  },
-  {
    "first_seen": "2026-11-18T09:36+03:00",
    "title": "Названы главные претенденты на звание «Игры года» на The Game Awards 2026",
    "games": true,
@@ -1002,6 +987,21 @@
      "text": "Создатель The Sims показал свою новую игру на базе ИИ: она создает локации и NPC из воспоминаний игрока.\n\nВ MyMems от Уилла Райта нужно будет вспоминать людей, которые могли бы помочь с головоломкой или выиграть мини-игру.\n\nСимуляция будет опираться на характеры людей, которых опишет юзер. Также из его воспоминаний будут генерироваться новые челленджи.\n\nВыйдет уже в следующем году."
     }
    ]
+  },
+  {
+   "first_seen": "2026-11-18T23:31+03:00",
+   "title": "В GTA VI нашли гидроцикл с собакой в очках за рулём",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/retra/37059",
+     "channel": "retra",
+     "time": "2026-11-18T22:47:18+03:00",
+     "media": "1 видео",
+     "links": [],
+     "text": "Ну и наверное самое лучшее, что игроки нашли в GTA VI: в игре можно кататься на гидроцикле по океану, обнимая собаку в очках, которая сидит за рулём.\n\nА большего для счастья и не надо\nr/#GTA6"
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -1437,6 +1437,7 @@
   "https://t.me/blokirovki_runeta/2133",
   "https://t.me/blokirovki_runeta/2134",
   "https://t.me/blokirovki_runeta/2135",
+  "https://t.me/blokirovki_runeta/2136",
   "https://t.me/cybers/40046",
   "https://t.me/cybers/40048",
   "https://t.me/cybers/40049",
@@ -2133,6 +2134,7 @@
   "https://t.me/petrovtel/84342",
   "https://t.me/petrovtel/84343",
   "https://t.me/petrovtel/84344",
+  "https://t.me/petrovtel/84346",
   "https://t.me/provod/24474",
   "https://t.me/provod/24475",
   "https://t.me/provod/24476",
@@ -2585,7 +2587,9 @@
   "https://t.me/retra/37046",
   "https://t.me/retra/37056",
   "https://t.me/retra/37057",
-  "https://t.me/retra/37058"
+  "https://t.me/retra/37058",
+  "https://t.me/retra/37059",
+  "https://t.me/retra/37060"
  ],
- "updated": "2026-11-18T22:36+03:00"
+ "updated": "2026-11-18T23:31+03:00"
 }
