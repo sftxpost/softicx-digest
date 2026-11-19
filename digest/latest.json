@@ -1036,6 +1036,44 @@
      "text": "Последние драйверы NVIDIA начали убивать SSD — версии 621.14 и 621.24 заставляют систему непрерывно записывать данные на диск, до 30 Гб/час даже в простое\n\nПричиной этого является процесс NVDisplay.Container.exe, который постоянно перезаписывает системный журнал. Юзерам посоветовали откатиться до стабильной 621.01 до выхода хотфикса"
     }
    ]
+  },
+  {
+   "first_seen": "2026-11-19T13:33+03:00",
+   "title": "Фотограф Альберт Уотсон показал ранее не публиковавшееся фото Майкла Джексона 2000 года",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/petrovtel/84358",
+     "channel": "petrovtel",
+     "time": "2026-11-19T12:50:14+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "Ранее не опубликованный снимок Майкла Джексона показал фотограф Альберт Уотсон\n\nФото сделали в Нью-Йорке в 2000 году во время съёмок обложки альбома Invincible. На лице певца — металлизированный грим.\n\nУотсон подчеркнул, что снимок настоящий и отсканирован с оригинального плёночного негатива. Ранее в сети распространялись созданные и обработанные ИИ изображения, которые выдавали за кадры той же фотосессии.\n\nКК 🐀"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-19T13:33+03:00",
+   "title": "В GTA VI заметили НЛО: на стриме игрок стал свидетелем похищения человека инопланетянами",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/media1337/29235",
+     "channel": "media1337",
+     "time": "2026-11-19T12:52:17+03:00",
+     "media": "1 видео",
+     "links": [],
+     "text": "В GTA VI заметили НЛО — во время стрима игрок стал свидетелем похищения человека инопланетянами.\n\nПохоже, Rockstar продолжает развивать тему пришельцев во вселенной GTA.\n\n🌒 1337"
+    },
+    {
+     "url": "https://t.me/provod/24936",
+     "channel": "provod",
+     "time": "2026-11-19T12:40:42+03:00",
+     "media": "1 видео",
+     "links": [],
+     "text": "⚡️ В GTA VI есть НЛО — чел прямо на стриме застал похищение человека пришельцами.\n\nЖдём GTA 7 на Марсе, получается 😁\n\n⚡Провод"
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -1477,6 +1515,7 @@
   "https://t.me/blokirovki_runeta/2136",
   "https://t.me/blokirovki_runeta/2137",
   "https://t.me/blokirovki_runeta/2138",
+  "https://t.me/blokirovki_runeta/2139",
   "https://t.me/cybers/40046",
   "https://t.me/cybers/40048",
   "https://t.me/cybers/40049",
@@ -1775,6 +1814,7 @@
   "https://t.me/media1337/29231",
   "https://t.me/media1337/29232",
   "https://t.me/media1337/29233",
+  "https://t.me/media1337/29235",
   "https://t.me/naebnet/17819",
   "https://t.me/naebnet/17821",
   "https://t.me/naebnet/17822",
@@ -1915,6 +1955,8 @@
   "https://t.me/naebnet/18023",
   "https://t.me/naebnet/18026",
   "https://t.me/naebnet/18027",
+  "https://t.me/naebnet/18030",
+  "https://t.me/naebnet/18032",
   "https://t.me/petrovtel/83885",
   "https://t.me/petrovtel/83886",
   "https://t.me/petrovtel/83887",
@@ -2187,6 +2229,7 @@
   "https://t.me/petrovtel/84352",
   "https://t.me/petrovtel/84355",
   "https://t.me/petrovtel/84357",
+  "https://t.me/petrovtel/84358",
   "https://t.me/provod/24474",
   "https://t.me/provod/24475",
   "https://t.me/provod/24476",
@@ -2506,6 +2549,8 @@
   "https://t.me/provod/24930",
   "https://t.me/provod/24931",
   "https://t.me/provod/24932",
+  "https://t.me/provod/24936",
+  "https://t.me/provod/24937",
   "https://t.me/retra/36781",
   "https://t.me/retra/36787",
   "https://t.me/retra/36788",
@@ -2649,7 +2694,8 @@
   "https://t.me/retra/37059",
   "https://t.me/retra/37060",
   "https://t.me/retra/37062",
-  "https://t.me/retra/37063"
+  "https://t.me/retra/37063",
+  "https://t.me/retra/37064"
  ],
- "updated": "2026-11-19T12:38+03:00"
+ "updated": "2026-11-19T13:33+03:00"
 }
