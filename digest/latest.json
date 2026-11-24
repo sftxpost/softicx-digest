@@ -1,46 +1,6 @@
 {
  "topics": [
   {
-   "first_seen": "2026-11-23T21:28+03:00",
-   "title": "Взлом GTA VI для ПК стримят в прямом эфире: ИИ-агенты перерабатывают Xbox-сборку для запуска на компьютерах",
-   "games": true,
-   "posts": [
-    {
-     "url": "https://t.me/provod/25021",
-     "channel": "provod",
-     "time": "2026-11-23T21:10:55+03:00",
-     "media": "1 фото",
-     "links": [],
-     "text": "GTA VI ломают в прямом эфире — команда Leonida прямо сейчас пытается запустить Xbox-сборку на ПК и показывает, как это делается, на Kick.\n\nОх**вшие от такой наглости Rockstar: 🚬🚬🚬\n\n⚡️ Провод"
-    },
-    {
-     "url": "https://t.me/retra/37158",
-     "channel": "retra",
-     "time": "2026-11-23T21:07:45+03:00",
-     "media": "2 фото",
-     "links": [
-      "https://kick.com/gn-math/videos/01a2091f-4d00-7ffc-9998-d21f9d95c5f4"
-     ],
-     "text": "Взлом GTA VI для ПК стримят в прямом эфире — хакер Cyberleek слил билд игры для Xbox Series, и теперь ИИ-агенты пытаются адаптировать консольную версию для запуска на компьютерах.\n\nПроцесс рекомпиляции показывают прямо на стриме. Уже более 70 тысяч человек смотрят за тем, как ИИ-агенты перерабатывают код игры для ПК в реальном времени.\n\nТакже известный моддер Zortos утверждает, что ему уже удалось запустить игру на компьютере. По его словам, до появления играбельного порта осталось меньше суток.\n\nА ещё в сети появились предполагаемые системные требования, согласно которым игра сможет запустить"
-    }
-   ]
-  },
-  {
-   "first_seen": "2026-11-23T21:28+03:00",
-   "title": "Глава Лиги безопасного интернета Мизулина призналась, что играет в GTA VI",
-   "games": true,
-   "posts": [
-    {
-     "url": "https://t.me/petrovtel/84469",
-     "channel": "petrovtel",
-     "time": "2026-11-23T20:47:19+03:00",
-     "media": "1 фото, 1 видео",
-     "links": [],
-     "text": "Мизулина тоже играет в GTA VI  Глава Лиги безопасного интернета поделилась, что уже скачивает игру.   КК 🐀"
-    }
-   ]
-  },
-  {
    "first_seen": "2026-11-23T22:39+03:00",
    "title": "Хакера, слившего GTA VI за четыре года до релиза, выпустили из тюрьмы",
    "games": true,
@@ -934,6 +894,7 @@
   "https://t.me/NewGameProject/33824",
   "https://t.me/NewGameProject/33827",
   "https://t.me/NewGameProject/33831",
+  "https://t.me/NewGameProject/33832",
   "https://t.me/SteamNetwork/37465",
   "https://t.me/SteamNetwork/37467",
   "https://t.me/SteamNetwork/37468",
@@ -1640,6 +1601,7 @@
   "https://t.me/media1337/29302",
   "https://t.me/media1337/29303",
   "https://t.me/media1337/29304",
+  "https://t.me/media1337/29306",
   "https://t.me/naebnet/17819",
   "https://t.me/naebnet/17821",
   "https://t.me/naebnet/17822",
@@ -2185,6 +2147,8 @@
   "https://t.me/petrovtel/84486",
   "https://t.me/petrovtel/84487",
   "https://t.me/petrovtel/84488",
+  "https://t.me/petrovtel/84489",
+  "https://t.me/petrovtel/84490",
   "https://t.me/provod/24474",
   "https://t.me/provod/24475",
   "https://t.me/provod/24476",
@@ -2792,7 +2756,8 @@
   "https://t.me/retra/37165",
   "https://t.me/retra/37166",
   "https://t.me/retra/37168",
-  "https://t.me/retra/37169"
+  "https://t.me/retra/37169",
+  "https://t.me/retra/37170"
  ],
- "updated": "2026-11-24T21:26+03:00"
+ "updated": "2026-11-24T22:38+03:00"
 }
