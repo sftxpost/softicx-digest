@@ -1,54 +1,6 @@
 {
  "topics": [
   {
-   "first_seen": "2026-11-26T15:39+03:00",
-   "title": "GTA VI слили на торрентах в ПК-версии — сборка энтузиастов CGBJ выдаёт 25-30 FPS с графическими артефактами",
-   "games": true,
-   "posts": [
-    {
-     "url": "https://t.me/media1337/29328",
-     "channel": "media1337",
-     "time": "2026-11-26T14:54:05+03:00",
-     "media": "1 фото",
-     "links": [],
-     "text": "GTA VI впервые появилась на торрентах в ПК-версии — энтузиасты из CGBJ выложили свою сборку игры.\n\nПока всё работает неидеально: производительность ограничена 25 FPS, а на экране заметны графические артефакты.\n\n🌒 1337"
-    },
-    {
-     "url": "https://t.me/provod/25098",
-     "channel": "provod",
-     "time": "2026-11-26T14:50:40+03:00",
-     "media": "1 фото",
-     "links": [],
-     "text": "⚡️ GTA VI на ПК слили в сеть — это порт от группы CGBJ, который уже выдаёт 25-30 FPS с отдельными графическими недочётами.\n\nБежим тестировать 😎\n\n⚡Провод"
-    },
-    {
-     "url": "https://t.me/naebnet/18138",
-     "channel": "naebnet",
-     "time": "2026-11-26T14:48:48+03:00",
-     "media": "1 фото, 2 видео",
-     "links": [],
-     "text": "«Продолжай портировать GTA VI, не допускай ошибок», — парень изучил стримы хакеров и собрал гениальные промты, с которыми те делают ПК-версию игры.  Оцениваем старания разработчиков: – Продолжай находить еще больше штук и работать; – Делай одну вещь за раз…"
-    }
-   ]
-  },
-  {
-   "first_seen": "2026-11-26T15:39+03:00",
-   "title": "Alibaba открыла бесплатный ИИ-инструмент Open Code Review с открытым кодом для поиска ошибок и уязвимостей в коде",
-   "games": false,
-   "posts": [
-    {
-     "url": "https://t.me/media1337/29329",
-     "channel": "media1337",
-     "time": "2026-11-26T15:05:40+03:00",
-     "media": "1 фото",
-     "links": [
-      "https://github.com/alibaba/open-code-review"
-     ],
-     "text": "Alibaba открыла бесплатный ИИ-инструмент для поиска ошибок в коде — внутри компании его использовали на протяжении двух лет.\n\nOpen Code Review распространяется с открытым исходным кодом. Он проверяет изменения в Git, оставляет комментарии прямо в коде, выявляет баги, проблемы синхронизации и уязвимости.\n\nИнструмент способен анализировать целые проекты и совместим с Claude Code, Codex и Cursor. В тестах при использовании одинаковой модели он расходует в 9 раз меньше токенов, чем Claude Code.\n\nРаботает на Windows, macOS и Linux. Для установки достаточно одной команды через npm.\n\nЗабираем здесь.\n"
-    }
-   ]
-  },
-  {
    "first_seen": "2026-11-26T16:56+03:00",
    "title": "22-летняя тиктокерша Аня Глушко погибла в ДТП с блогером-священником «Турбобатюшкой»",
    "games": false,
@@ -717,6 +669,39 @@
      "text": "Создатели ИИ-девушек уже зарабатывают десятки тысяч долларов на копиях Люсии из GTA VI. Они копируют внешность, луки, характер и даже историю судимости героини.\n\n26-летний Джеймс из Лондона сделал ИИ-профиль модели Адрианы Веги из Майами — в ноябре он заработал £30 тыс. (₽3,2 млн). Адриана переписывается с юзерами, будто она настоящая Люсия, и они вместе идут на дело в Вайс-Сити.\n\nЕще одна такая модель, Вики Торрес, принесла 24-летней Кэти из Филадельфии около $12 тыс. (₽986 тыс.). На заработанные деньги Кэти купила парню PS5."
     }
    ]
+  },
+  {
+   "first_seen": "2026-11-27T16:55+03:00",
+   "title": "Apple отказалась включать 5G на iPhone в России и вернуть MAX в App Store, переговоры с Минцифры зашли в тупик",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/media1337/29342",
+     "channel": "media1337",
+     "time": "2026-11-27T15:42:26+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "⚡️Apple не собирается возвращать 5G на iPhone в России и добавлять MAX в App Store — Минцифры не удалось достичь договорённостей с компанией.\n\n🌒 1337"
+    },
+    {
+     "url": "https://t.me/blokirovki_runeta/2193",
+     "channel": "blokirovki_runeta",
+     "time": "2026-11-27T15:44:19+03:00",
+     "media": "1 фото",
+     "links": [],
+     "text": "❗️Apple отказался включать 5G на айфонах россиян и возвращать MAX в App Store.\n\nМинцифры пытались договориться, но получили отказ.\n\n@blokirovki_runeta"
+    },
+    {
+     "url": "https://t.me/provod/25130",
+     "channel": "provod",
+     "time": "2026-11-27T15:42:41+03:00",
+     "media": "1 фото",
+     "links": [
+      "https://www.kommersant.ru/doc/9144219?tg"
+     ],
+     "text": "⚡️ MAX и 5G на айфонах НЕ БУДЕТ — переговоры Apple и Минцифры зашли в тупик.\n\nНа вопрос удалось ли договориться с купертиновцами, Максут Шадаев ответил просто — «нет».\n\nЖдём бан Apple, получается 🙂\n\n⚡Провод"
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -916,6 +901,7 @@
   "https://t.me/NewGameProject/33871",
   "https://t.me/NewGameProject/33872",
   "https://t.me/NewGameProject/33873",
+  "https://t.me/NewGameProject/33874",
   "https://t.me/SteamNetwork/37465",
   "https://t.me/SteamNetwork/37467",
   "https://t.me/SteamNetwork/37468",
@@ -1284,6 +1270,8 @@
   "https://t.me/blokirovki_runeta/2189",
   "https://t.me/blokirovki_runeta/2190",
   "https://t.me/blokirovki_runeta/2191",
+  "https://t.me/blokirovki_runeta/2192",
+  "https://t.me/blokirovki_runeta/2193",
   "https://t.me/cybers/40046",
   "https://t.me/cybers/40048",
   "https://t.me/cybers/40049",
@@ -1439,6 +1427,7 @@
   "https://t.me/cybers/40584",
   "https://t.me/cybers/40585",
   "https://t.me/cybers/40586",
+  "https://t.me/cybers/40588",
   "https://t.me/media1337/28982",
   "https://t.me/media1337/28983",
   "https://t.me/media1337/28984",
@@ -1681,6 +1670,7 @@
   "https://t.me/media1337/29339",
   "https://t.me/media1337/29340",
   "https://t.me/media1337/29341",
+  "https://t.me/media1337/29342",
   "https://t.me/naebnet/17819",
   "https://t.me/naebnet/17821",
   "https://t.me/naebnet/17822",
@@ -1903,6 +1893,7 @@
   "https://t.me/naebnet/18156",
   "https://t.me/naebnet/18158",
   "https://t.me/naebnet/18161",
+  "https://t.me/naebnet/18162",
   "https://t.me/petrovtel/83885",
   "https://t.me/petrovtel/83886",
   "https://t.me/petrovtel/83887",
@@ -2291,6 +2282,9 @@
   "https://t.me/petrovtel/84532",
   "https://t.me/petrovtel/84533",
   "https://t.me/petrovtel/84534",
+  "https://t.me/petrovtel/84536",
+  "https://t.me/petrovtel/84537",
+  "https://t.me/petrovtel/84538",
   "https://t.me/provod/24474",
   "https://t.me/provod/24475",
   "https://t.me/provod/24476",
@@ -2742,6 +2736,8 @@
   "https://t.me/provod/25126",
   "https://t.me/provod/25127",
   "https://t.me/provod/25129",
+  "https://t.me/provod/25130",
+  "https://t.me/provod/25131",
   "https://t.me/retra/36781",
   "https://t.me/retra/36787",
   "https://t.me/retra/36788",
@@ -2971,7 +2967,8 @@
   "https://t.me/retra/37225",
   "https://t.me/retra/37226",
   "https://t.me/retra/37227",
-  "https://t.me/retra/37228"
+  "https://t.me/retra/37228",
+  "https://t.me/retra/37230"
  ],
- "updated": "2026-11-27T15:36+03:00"
+ "updated": "2026-11-27T16:55+03:00"
 }
