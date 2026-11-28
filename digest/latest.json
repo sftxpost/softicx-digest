@@ -1,39 +1,6 @@
 {
  "topics": [
   {
-   "first_seen": "2026-11-27T16:55+03:00",
-   "title": "Apple отказалась включать 5G на iPhone в России и вернуть MAX в App Store, переговоры с Минцифры зашли в тупик",
-   "games": false,
-   "posts": [
-    {
-     "url": "https://t.me/media1337/29342",
-     "channel": "media1337",
-     "time": "2026-11-27T15:42:26+03:00",
-     "media": "1 фото",
-     "links": [],
-     "text": "⚡️Apple не собирается возвращать 5G на iPhone в России и добавлять MAX в App Store — Минцифры не удалось достичь договорённостей с компанией.\n\n🌒 1337"
-    },
-    {
-     "url": "https://t.me/blokirovki_runeta/2193",
-     "channel": "blokirovki_runeta",
-     "time": "2026-11-27T15:44:19+03:00",
-     "media": "1 фото",
-     "links": [],
-     "text": "❗️Apple отказался включать 5G на айфонах россиян и возвращать MAX в App Store.\n\nМинцифры пытались договориться, но получили отказ.\n\n@blokirovki_runeta"
-    },
-    {
-     "url": "https://t.me/provod/25130",
-     "channel": "provod",
-     "time": "2026-11-27T15:42:41+03:00",
-     "media": "1 фото",
-     "links": [
-      "https://www.kommersant.ru/doc/9144219?tg"
-     ],
-     "text": "⚡️ MAX и 5G на айфонах НЕ БУДЕТ — переговоры Apple и Минцифры зашли в тупик.\n\nНа вопрос удалось ли договориться с купертиновцами, Максут Шадаев ответил просто — «нет».\n\nЖдём бан Apple, получается 🙂\n\n⚡Провод"
-    }
-   ]
-  },
-  {
    "first_seen": "2026-11-27T18:34+03:00",
    "title": "Матвиенко предложила ввести взносы по ОМС для неработающих россиян с доходами",
    "games": false,
@@ -636,6 +603,39 @@
      "text": "🫢 «Твиты» теперь тоже запрещенное слово в России. \n\nВ российской версии документального фильма «Увидеть всё» слово «твиты» в реплике героя фильма заглушили, а вместо этого в  субтитрах заменили на «соцсети». \n\nКазалось бы, куда ещё доводить цензуру до абсурда? А нет, есть куда.\n\n@blokirovki_runeta"
     }
    ]
+  },
+  {
+   "first_seen": "2026-11-28T18:24+03:00",
+   "title": "Эдварда Атеву обвинили в обмане блогерш на миллионы рублей",
+   "games": false,
+   "posts": [
+    {
+     "url": "https://t.me/petrovtel/84556",
+     "channel": "petrovtel",
+     "time": "2026-11-28T16:43:04+03:00",
+     "media": "3 фото, 3 видео",
+     "links": [],
+     "text": "Эдварда Атеву обвинили в обмане блогерш на миллионы рублей\n\nПо данным СМИ, бывший ютубер работал рекламным менеджером и присваивал выплаты от брендов.\n\nОдной из блогерш с аудиторией в 300 тысяч подписчиков Атева задолжал более миллиона рублей, после чего удалил переписку и заблокировал её.\n\nДевушка связалась с рекламодателями, которые подтвердили оплату, а затем нашла ещё двух пострадавших.\n\nКК 🐀"
+    }
+   ]
+  },
+  {
+   "first_seen": "2026-11-28T18:24+03:00",
+   "title": "Реддитор сделал ретро-шутер в стиле игровых автоматов, где смартфон работает как оружие",
+   "games": true,
+   "posts": [
+    {
+     "url": "https://t.me/naebnet/18174",
+     "channel": "naebnet",
+     "time": "2026-11-28T18:21:12+03:00",
+     "media": "1 видео",
+     "links": [
+      "https://apps.apple.com/app/surge-point-tv-co-op-shooter/id6829720968",
+      "https://play.google.com/store/apps/details?id=com.mindblows.rivetriot"
+     ],
+     "text": "Реддитор сделал ретро-шутер из эпохи игровых автоматов: для работы достаточно смартфона и телевизора.\n\nТелефон работает как оружие — жестами нужно целиться и стрелять. Работает на любом современном телевизоре через AirPlay, Android TV или обычный HDMI.\n\nТестим на iOS и на Android."
+    }
+   ]
   }
  ],
  "seen_urls": [
@@ -842,6 +842,7 @@
   "https://t.me/NewGameProject/33887",
   "https://t.me/NewGameProject/33888",
   "https://t.me/NewGameProject/33889",
+  "https://t.me/NewGameProject/33890",
   "https://t.me/SteamNetwork/37465",
   "https://t.me/SteamNetwork/37467",
   "https://t.me/SteamNetwork/37468",
@@ -1390,6 +1391,8 @@
   "https://t.me/cybers/40600",
   "https://t.me/cybers/40601",
   "https://t.me/cybers/40603",
+  "https://t.me/cybers/40608",
+  "https://t.me/cybers/40617",
   "https://t.me/media1337/28982",
   "https://t.me/media1337/28983",
   "https://t.me/media1337/28984",
@@ -1644,6 +1647,7 @@
   "https://t.me/media1337/29354",
   "https://t.me/media1337/29355",
   "https://t.me/media1337/29357",
+  "https://t.me/media1337/29358",
   "https://t.me/naebnet/17819",
   "https://t.me/naebnet/17821",
   "https://t.me/naebnet/17822",
@@ -1877,6 +1881,7 @@
   "https://t.me/naebnet/18171",
   "https://t.me/naebnet/18172",
   "https://t.me/naebnet/18173",
+  "https://t.me/naebnet/18174",
   "https://t.me/petrovtel/83885",
   "https://t.me/petrovtel/83886",
   "https://t.me/petrovtel/83887",
@@ -2281,6 +2286,7 @@
   "https://t.me/petrovtel/84552",
   "https://t.me/petrovtel/84553",
   "https://t.me/petrovtel/84555",
+  "https://t.me/petrovtel/84556",
   "https://t.me/provod/24474",
   "https://t.me/provod/24475",
   "https://t.me/provod/24476",
@@ -2989,5 +2995,5 @@
   "https://t.me/retra/37258",
   "https://t.me/retra/37260"
  ],
- "updated": "2026-11-28T16:41+03:00"
+ "updated": "2026-11-28T18:24+03:00"
 }
